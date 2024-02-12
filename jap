@@ -9,6 +9,7 @@
 会う	会わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 会う	会った	V;PST;PFV
 会う	会わなかった	V;PST;PFV;NEG
+会う	会わなかったです	V;PST;PFV;POL;NEG;COL
 会う	会いました	V;PST;PFV;POL;FOREG
 会う	会いませんでした	V;PST;PFV;POL;FOREG;NEG
 会う	会っただろう	V;PST;PFV;PROSP
@@ -125,6 +126,7 @@
 会う	お目にかからないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 会う	お目にかかった	V;FORM;HUMB;PST;PFV
 会う	お目にかからなかった	V;FORM;HUMB;PST;PFV;NEG
+会う	お目にかからなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 会う	お目にかかりました	V;FORM;HUMB;PST;PFV;POL;FOREG
 会う	お目にかかりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 会う	お目にかかっただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -167,6 +169,7 @@
 開く	開かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 開く	開いた	V;PST;PFV
 開く	開かなかった	V;PST;PFV;NEG
+開く	開かなかったです	V;PST;PFV;POL;NEG;COL
 開く	開きました	V;PST;PFV;POL;FOREG
 開く	開きませんでした	V;PST;PFV;POL;FOREG;NEG
 開く	開いただろう	V;PST;PFV;PROSP
@@ -278,6 +281,7 @@
 開ける	開けないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 開ける	開けた	V;PST;PFV
 開ける	開けなかった	V;PST;PFV;NEG
+開ける	開けなかったです	V;PST;PFV;POL;NEG;COL
 開ける	開けました	V;PST;PFV;POL;FOREG
 開ける	開けませんでした	V;PST;PFV;POL;FOREG;NEG
 開ける	開けただろう	V;PST;PFV;PROSP
@@ -375,6 +379,7 @@
 あげる	あげないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 あげる	あげた	V;PST;PFV
 あげる	あげなかった	V;PST;PFV;NEG
+あげる	あげなかったです	V;PST;PFV;POL;NEG;COL
 あげる	あげました	V;PST;PFV;POL;FOREG
 あげる	あげませんでした	V;PST;PFV;POL;FOREG;NEG
 あげる	あげただろう	V;PST;PFV;PROSP
@@ -519,6 +524,7 @@
 遊ぶ	遊ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 遊ぶ	遊んだ	V;PST;PFV
 遊ぶ	遊ばなかった	V;PST;PFV;NEG
+遊ぶ	遊ばなかったです	V;PST;PFV;POL;NEG;COL
 遊ぶ	遊びました	V;PST;PFV;POL;FOREG
 遊ぶ	遊びませんでした	V;PST;PFV;POL;FOREG;NEG
 遊ぶ	遊んだだろう	V;PST;PFV;PROSP
@@ -633,6 +639,7 @@
 浴びる	浴びないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 浴びる	浴びた	V;PST;PFV
 浴びる	浴びなかった	V;PST;PFV;NEG
+浴びる	浴びなかったです	V;PST;PFV;POL;NEG;COL
 浴びる	浴びました	V;PST;PFV;POL;FOREG
 浴びる	浴びませんでした	V;PST;PFV;POL;FOREG;NEG
 浴びる	浴びただろう	V;PST;PFV;PROSP
@@ -719,6 +726,7 @@
 洗う	洗わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 洗う	洗った	V;PST;PFV
 洗う	洗わなかった	V;PST;PFV;NEG
+洗う	洗わなかったです	V;PST;PFV;POL;NEG;COL
 洗う	洗いました	V;PST;PFV;POL;FOREG
 洗う	洗いませんでした	V;PST;PFV;POL;FOREG;NEG
 洗う	洗っただろう	V;PST;PFV;PROSP
@@ -883,6 +891,7 @@
 ある	ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 ある	あった	V;PST;PFV
 ある	なかった	V;PST;PFV;NEG
+ある	なかったです	V;PST;PFV;POL;NEG;COL
 ある	ありました	V;PST;PFV;POL;FOREG
 ある	ありませんでした	V;PST;PFV;POL;FOREG;NEG
 ある	あっただろう	V;PST;PFV;PROSP
@@ -993,6 +1002,7 @@
 歩く	歩かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 歩く	歩いた	V;PST;PFV
 歩く	歩かなかった	V;PST;PFV;NEG
+歩く	歩かなかったです	V;PST;PFV;POL;NEG;COL
 歩く	歩きました	V;PST;PFV;POL;FOREG
 歩く	歩きませんでした	V;PST;PFV;POL;FOREG;NEG
 歩く	歩いただろう	V;PST;PFV;PROSP
@@ -1058,6 +1068,7 @@
 歩く	歩かせなかった	V;PST;PFV;CAUS;NEG
 歩く	歩かせました	V;PST;PFV;CAUS;POL;FOREG
 歩く	歩かせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
+歩く	歩かす	V;PRS;IPFV;CAUS
 歩く	歩かさない	V;PRS;IPFV;CAUS;NEG
 歩く	歩かします	V;PRS;IPFV;CAUS;POL;FOREG
 歩く	歩かした	V;PST;PFV;CAUS
@@ -1101,6 +1112,7 @@
 言う	言わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 言う	言った	V;PST;PFV
 言う	言わなかった	V;PST;PFV;NEG
+言う	言わなかったです	V;PST;PFV;POL;NEG;COL
 言う	言いました	V;PST;PFV;POL;FOREG
 言う	言いませんでした	V;PST;PFV;POL;FOREG;NEG
 言う	言っただろう	V;PST;PFV;PROSP
@@ -1210,6 +1222,7 @@
 言う	おっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 言う	おっしゃった	V;FORM;ELEV;PST;PFV
 言う	おっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG
+言う	おっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 言う	おっしゃりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 言う	おっしゃりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 言う	おっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -1314,6 +1327,7 @@
 言う	申し上げないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 言う	申し上げた	V;FORM;HUMB;PST;PFV
 言う	申し上げなかった	V;FORM;HUMB;PST;PFV;NEG
+言う	申し上げなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 言う	申し上げました	V;FORM;HUMB;PST;PFV;POL;FOREG
 言う	申し上げませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 言う	申し上げただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -1368,6 +1382,7 @@
 行く	行かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 行く	行った	V;PST;PFV
 行く	行かなかった	V;PST;PFV;NEG
+行く	行かなかったです	V;PST;PFV;POL;NEG;COL
 行く	行きました	V;PST;PFV;POL;FOREG
 行く	行きませんでした	V;PST;PFV;POL;FOREG;NEG
 行く	行っただろう	V;PST;PFV;PROSP
@@ -1480,6 +1495,7 @@
 行く	いらっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 行く	いらっしゃった	V;FORM;ELEV;PST;PFV
 行く	いらっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG
+行く	いらっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 行く	いらっしゃいました	V;FORM;ELEV;PST;PFV;POL;FOREG
 行く	いらっしゃいませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 行く	いらっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -1526,6 +1542,7 @@
 行く	おいでにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 行く	おいでになった	V;FORM;ELEV;PST;PFV
 行く	おいでにならなかった	V;FORM;ELEV;PST;PFV;NEG
+行く	おいでにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 行く	おいでになりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 行く	おいでになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 行く	おいでになったでしょう	V;FORM;ELEV;PST;PFV;PROSP;POL
@@ -1617,6 +1634,7 @@
 行く	伺わないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 行く	伺った	V;FORM;HUMB;PST;PFV
 行く	伺わなかった	V;FORM;HUMB;PST;PFV;NEG
+行く	伺わなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 行く	伺いました	V;FORM;HUMB;PST;PFV;POL;FOREG
 行く	伺いませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 行く	伺っただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -1681,6 +1699,7 @@
 行く	上がらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 行く	上がった	V;FORM;HUMB;PST;PFV
 行く	上がらなかった	V;FORM;HUMB;PST;PFV;NEG
+行く	上がらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 行く	上がりました	V;FORM;HUMB;PST;PFV;POL;FOREG
 行く	上がりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 行く	上がっただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -1761,6 +1780,7 @@
 居る	居ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 居る	居た	V;PST;PFV
 居る	居なかった	V;PST;PFV;NEG
+居る	居なかったです	V;PST;PFV;POL;NEG;COL
 居る	居ました	V;PST;PFV;POL;FOREG
 居る	居ませんでした	V;PST;PFV;POL;FOREG;NEG
 居る	居ただろう	V;PST;PFV;PROSP
@@ -1847,6 +1867,7 @@
 居る	いらっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 居る	いらっしゃった	V;FORM;ELEV;PST;PFV
 居る	いらっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG
+居る	いらっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 居る	いらっしゃいました	V;FORM;ELEV;PST;PFV;POL;FOREG
 居る	いらっしゃいませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 居る	いらっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -1893,6 +1914,7 @@
 居る	おいでにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 居る	おいでになった	V;FORM;ELEV;PST;PFV
 居る	おいでにならなかった	V;FORM;ELEV;PST;PFV;NEG
+居る	おいでにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 居る	おいでになりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 居る	おいでになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 居る	おいでになったでしょう	V;FORM;ELEV;PST;PFV;PROSP;POL
@@ -1935,6 +1957,7 @@
 居る	おらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 居る	おった	V;FORM;HUMB;PST;PFV
 居る	おらなかった	V;FORM;HUMB;PST;PFV;NEG
+居る	おらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 居る	おりました	V;FORM;HUMB;PST;PFV;POL;FOREG
 居る	おりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 居る	おっただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -2012,6 +2035,7 @@
 要る	要らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 要る	要った	V;PST;PFV
 要る	要らなかった	V;PST;PFV;NEG
+要る	要らなかったです	V;PST;PFV;POL;NEG;COL
 要る	要りました	V;PST;PFV;POL;FOREG
 要る	要りませんでした	V;PST;PFV;POL;FOREG;NEG
 要る	要っただろう	V;PST;PFV;PROSP
@@ -2075,6 +2099,7 @@
 入れる	入れないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 入れる	入れた	V;PST;PFV
 入れる	入れなかった	V;PST;PFV;NEG
+入れる	入れなかったです	V;PST;PFV;POL;NEG;COL
 入れる	入れました	V;PST;PFV;POL;FOREG
 入れる	入れませんでした	V;PST;PFV;POL;FOREG;NEG
 入れる	入れただろう	V;PST;PFV;PROSP
@@ -2182,6 +2207,7 @@
 歌う	歌わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 歌う	歌った	V;PST;PFV
 歌う	歌わなかった	V;PST;PFV;NEG
+歌う	歌わなかったです	V;PST;PFV;POL;NEG;COL
 歌う	歌いました	V;PST;PFV;POL;FOREG
 歌う	歌いませんでした	V;PST;PFV;POL;FOREG;NEG
 歌う	歌っただろう	V;PST;PFV;PROSP
@@ -2261,6 +2287,8 @@
 歌う	歌わせられなかった	V;PST;PFV;CAUS;PASS;NEG
 歌う	歌わせられました	V;PST;PFV;CAUS;PASS;POL;FOREG
 歌う	歌わせられませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG
+歌う	歌わされる	V;PRS;IPFV;CAUS;PASS
+歌う	歌わされない	V;PRS;IPFV;CAUS;PASS;NEG
 歌う	歌わされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG
 歌う	歌わされた	V;PST;PFV;CAUS;PASS
 歌う	歌わされなかった	V;PST;PFV;CAUS;PASS;NEG
@@ -2290,6 +2318,7 @@
 生まれる	生まれないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 生まれる	生まれた	V;PST;PFV
 生まれる	生まれなかった	V;PST;PFV;NEG
+生まれる	生まれなかったです	V;PST;PFV;POL;NEG;COL
 生まれる	生まれました	V;PST;PFV;POL;FOREG
 生まれる	生まれませんでした	V;PST;PFV;POL;FOREG;NEG
 生まれる	生まれただろう	V;PST;PFV;PROSP
@@ -2375,6 +2404,7 @@
 売る	売らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 売る	売った	V;PST;PFV
 売る	売らなかった	V;PST;PFV;NEG
+売る	売らなかったです	V;PST;PFV;POL;NEG;COL
 売る	売りました	V;PST;PFV;POL;FOREG
 売る	売りませんでした	V;PST;PFV;POL;FOREG;NEG
 売る	売っただろう	V;PST;PFV;PROSP
@@ -2478,6 +2508,7 @@
 起きる	起きないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 起きる	起きた	V;PST;PFV
 起きる	起きなかった	V;PST;PFV;NEG
+起きる	起きなかったです	V;PST;PFV;POL;NEG;COL
 起きる	起きました	V;PST;PFV;POL;FOREG
 起きる	起きませんでした	V;PST;PFV;POL;FOREG;NEG
 起きる	起きただろう	V;PST;PFV;PROSP
@@ -2665,6 +2696,7 @@
 送る	送らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 送る	送った	V;PST;PFV
 送る	送らなかった	V;PST;PFV;NEG
+送る	送らなかったです	V;PST;PFV;POL;NEG;COL
 送る	送りました	V;PST;PFV;POL;FOREG
 送る	送りませんでした	V;PST;PFV;POL;FOREG;NEG
 送る	送っただろう	V;PST;PFV;PROSP
@@ -2770,6 +2802,7 @@
 押す	押さないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 押す	押した	V;PST;PFV
 押す	押さなかった	V;PST;PFV;NEG
+押す	押さなかったです	V;PST;PFV;POL;NEG;COL
 押す	押しました	V;PST;PFV;POL;FOREG
 押す	押しませんでした	V;PST;PFV;POL;FOREG;NEG
 押す	押しただろう	V;PST;PFV;PROSP
@@ -2865,6 +2898,7 @@
 覚える	覚えないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 覚える	覚えた	V;PST;PFV
 覚える	覚えなかった	V;PST;PFV;NEG
+覚える	覚えなかったです	V;PST;PFV;POL;NEG;COL
 覚える	覚えました	V;PST;PFV;POL;FOREG
 覚える	覚えませんでした	V;PST;PFV;POL;FOREG;NEG
 覚える	覚えただろう	V;PST;PFV;PROSP
@@ -2956,6 +2990,7 @@
 泳ぐ	泳がないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 泳ぐ	泳いだ	V;PST;PFV
 泳ぐ	泳がなかった	V;PST;PFV;NEG
+泳ぐ	泳がなかったです	V;PST;PFV;POL;NEG;COL
 泳ぐ	泳ぎました	V;PST;PFV;POL;FOREG
 泳ぐ	泳ぎませんでした	V;PST;PFV;POL;FOREG;NEG
 泳ぐ	泳いだだろう	V;PST;PFV;PROSP
@@ -3045,6 +3080,7 @@
 降りる	降りないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 降りる	降りた	V;PST;PFV
 降りる	降りなかった	V;PST;PFV;NEG
+降りる	降りなかったです	V;PST;PFV;POL;NEG;COL
 降りる	降りました	V;PST;PFV;POL;FOREG
 降りる	降りませんでした	V;PST;PFV;POL;FOREG;NEG
 降りる	降りただろう	V;PST;PFV;PROSP
@@ -3138,6 +3174,7 @@
 終わる	終わらないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 終わる	終わった	V;PST;PFV
 終わる	終わらなかった	V;PST;PFV;NEG
+終わる	終わらなかったです	V;PST;PFV;POL;NEG;COL
 終わる	終わりました	V;PST;PFV;POL;FOREG
 終わる	終わりませんでした	V;PST;PFV;POL;FOREG;NEG
 終わる	終わっただろう	V;PST;PFV;PROSP
@@ -3234,6 +3271,7 @@
 買う	買わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 買う	買った	V;PST;PFV
 買う	買わなかった	V;PST;PFV;NEG
+買う	買わなかったです	V;PST;PFV;POL;NEG;COL
 買う	買いました	V;PST;PFV;POL;FOREG
 買う	買いませんでした	V;PST;PFV;POL;FOREG;NEG
 買う	買っただろう	V;PST;PFV;PROSP
@@ -3347,6 +3385,7 @@
 返す	返すでしょう	V;PRS;IPFV;PROSP;POL
 返す	返した	V;PST;PFV
 返す	返さなかった	V;PST;PFV;NEG
+返す	返さなかったです	V;PST;PFV;POL;NEG;COL
 返す	返しました	V;PST;PFV;POL;FOREG
 返す	返しませんでした	V;PST;PFV;POL;FOREG;NEG
 返す	返しただろう	V;PST;PFV;PROSP
@@ -3420,6 +3459,7 @@
 返す	返させられた	V;PST;PFV;CAUS;PASS
 返す	返させられました	V;PST;PFV;CAUS;PASS;POL;FOREG
 返す	返さされる	V;PRS;IPFV;CAUS;PASS
+返す	返さされた	V;PST;PFV;CAUS;PASS
 返す	お返しになる	V;FORM;ELEV;PRS;IPFV
 返す	お返しにならない	V;FORM;ELEV;PRS;IPFV;NEG
 返す	お返しになります	V;FORM;ELEV;PRS;IPFV;POL;FOREG
@@ -3450,6 +3490,7 @@
 帰る	帰らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 帰る	帰った	V;PST;PFV
 帰る	帰らなかった	V;PST;PFV;NEG
+帰る	帰らなかったです	V;PST;PFV;POL;NEG;COL
 帰る	帰りました	V;PST;PFV;POL;FOREG
 帰る	帰りませんでした	V;PST;PFV;POL;FOREG;NEG
 帰る	帰っただろう	V;PST;PFV;PROSP
@@ -3530,6 +3571,7 @@
 帰る	帰らせられなかった	V;PST;PFV;CAUS;PASS;NEG
 帰る	帰らせられました	V;PST;PFV;CAUS;PASS;POL;FOREG
 帰る	帰らされる	V;PRS;IPFV;CAUS;PASS
+帰る	帰らされない	V;PRS;IPFV;CAUS;PASS;NEG
 帰る	帰らされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG
 帰る	帰らされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG
 帰る	帰らされた	V;PST;PFV;CAUS;PASS
@@ -3564,6 +3606,7 @@
 かかる	かからないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 かかる	かかった	V;PST;PFV
 かかる	かからなかった	V;PST;PFV;NEG
+かかる	かからなかったです	V;PST;PFV;POL;NEG;COL
 かかる	かかりました	V;PST;PFV;POL;FOREG
 かかる	かかりませんでした	V;PST;PFV;POL;FOREG;NEG
 かかる	かかっただろう	V;PST;PFV;PROSP
@@ -3656,6 +3699,7 @@
 書く	書かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 書く	書いた	V;PST;PFV
 書く	書かなかった	V;PST;PFV;NEG
+書く	書かなかったです	V;PST;PFV;POL;NEG;COL
 書く	書きました	V;PST;PFV;POL;FOREG
 書く	書きませんでした	V;PST;PFV;POL;FOREG;NEG
 書く	書いただろう	V;PST;PFV;PROSP
@@ -3740,6 +3784,7 @@
 書く	書かされる	V;PRS;IPFV;CAUS;PASS
 書く	書かされない	V;PRS;IPFV;CAUS;PASS;NEG
 書く	書かされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG
+書く	書かされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG
 書く	書かされた	V;PST;PFV;CAUS;PASS
 書く	書かされなかった	V;PST;PFV;CAUS;PASS;NEG
 書く	書かされました	V;PST;PFV;CAUS;PASS;POL;FOREG
@@ -3773,6 +3818,7 @@
 かける	かけないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 かける	かけた	V;PST;PFV
 かける	かけなかった	V;PST;PFV;NEG
+かける	かけなかったです	V;PST;PFV;POL;NEG;COL
 かける	かけました	V;PST;PFV;POL;FOREG
 かける	かけませんでした	V;PST;PFV;POL;FOREG;NEG
 かける	かけただろう	V;PST;PFV;PROSP
@@ -3878,6 +3924,7 @@
 貸す	貸さないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 貸す	貸した	V;PST;PFV
 貸す	貸さなかった	V;PST;PFV;NEG
+貸す	貸さなかったです	V;PST;PFV;POL;NEG;COL
 貸す	貸しました	V;PST;PFV;POL;FOREG
 貸す	貸しませんでした	V;PST;PFV;POL;FOREG;NEG
 貸す	貸しただろう	V;PST;PFV;PROSP
@@ -3980,6 +4027,7 @@
 冠る	冠らせる	V;PRS;IPFV;CAUS
 冠る	冠らせた	V;PST;PFV;CAUS
 冠る	冠らせました	V;PST;PFV;CAUS;POL;FOREG
+冠る	冠らす	V;PRS;IPFV;CAUS
 冠る	冠らした	V;PST;PFV;CAUS
 冠る	冠らされた	V;PST;PFV;CAUS;PASS
 借りる	借りる	V;PRS;IPFV
@@ -3993,6 +4041,7 @@
 借りる	借りないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 借りる	借りた	V;PST;PFV
 借りる	借りなかった	V;PST;PFV;NEG
+借りる	借りなかったです	V;PST;PFV;POL;NEG;COL
 借りる	借りました	V;PST;PFV;POL;FOREG
 借りる	借りませんでした	V;PST;PFV;POL;FOREG;NEG
 借りる	借りただろう	V;PST;PFV;PROSP
@@ -4129,6 +4178,7 @@
 消える	消えないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 消える	消えた	V;PST;PFV
 消える	消えなかった	V;PST;PFV;NEG
+消える	消えなかったです	V;PST;PFV;POL;NEG;COL
 消える	消えました	V;PST;PFV;POL;FOREG
 消える	消えませんでした	V;PST;PFV;POL;FOREG;NEG
 消える	消えただろう	V;PST;PFV;PROSP
@@ -4207,6 +4257,7 @@
 聞く	聞かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 聞く	聞いた	V;PST;PFV
 聞く	聞かなかった	V;PST;PFV;NEG
+聞く	聞かなかったです	V;PST;PFV;POL;NEG;COL
 聞く	聞きました	V;PST;PFV;POL;FOREG
 聞く	聞きませんでした	V;PST;PFV;POL;FOREG;NEG
 聞く	聞いただろう	V;PST;PFV;PROSP
@@ -4343,6 +4394,7 @@
 聞く	伺わないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 聞く	伺った	V;FORM;HUMB;PST;PFV
 聞く	伺わなかった	V;FORM;HUMB;PST;PFV;NEG
+聞く	伺わなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 聞く	伺いました	V;FORM;HUMB;PST;PFV;POL;FOREG
 聞く	伺いませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 聞く	伺っただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -4481,6 +4533,7 @@
 切る	切らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 切る	切った	V;PST;PFV
 切る	切らなかった	V;PST;PFV;NEG
+切る	切らなかったです	V;PST;PFV;POL;NEG;COL
 切る	切りました	V;PST;PFV;POL;FOREG
 切る	切りませんでした	V;PST;PFV;POL;FOREG;NEG
 切る	切っただろう	V;PST;PFV;PROSP
@@ -4592,6 +4645,7 @@
 着る	着ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 着る	着た	V;PST;PFV
 着る	着なかった	V;PST;PFV;NEG
+着る	着なかったです	V;PST;PFV;POL;NEG;COL
 着る	着ました	V;PST;PFV;POL;FOREG
 着る	着ませんでした	V;PST;PFV;POL;FOREG;NEG
 着る	着ただろう	V;PST;PFV;PROSP
@@ -4686,6 +4740,7 @@
 着る	召さないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 着る	召した	V;FORM;ELEV;PST;PFV
 着る	召さなかった	V;FORM;ELEV;PST;PFV;NEG
+着る	召さなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 着る	召しました	V;FORM;ELEV;PST;PFV;POL;FOREG
 着る	召しませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 着る	召しただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -4780,6 +4835,7 @@
 来る	来ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 来る	来た	V;PST;PFV
 来る	来なかった	V;PST;PFV;NEG
+来る	来なかったです	V;PST;PFV;POL;NEG;COL
 来る	来ました	V;PST;PFV;POL;FOREG
 来る	来ませんでした	V;PST;PFV;POL;FOREG;NEG
 来る	来ただろう	V;PST;PFV;PROSP
@@ -4870,6 +4926,7 @@
 来る	いらっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 来る	いらっしゃった	V;FORM;ELEV;PST;PFV
 来る	いらっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG
+来る	いらっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 来る	いらっしゃいました	V;FORM;ELEV;PST;PFV;POL;FOREG
 来る	いらっしゃいませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 来る	いらっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -4916,6 +4973,7 @@
 来る	おいでにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 来る	おいでになった	V;FORM;ELEV;PST;PFV
 来る	おいでにならなかった	V;FORM;ELEV;PST;PFV;NEG
+来る	おいでにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 来る	おいでになりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 来る	おいでになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 来る	おいでになったでしょう	V;FORM;ELEV;PST;PFV;PROSP;POL
@@ -4958,6 +5016,7 @@
 来る	見えないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 来る	見えた	V;FORM;ELEV;PST;PFV
 来る	見えなかった	V;FORM;ELEV;PST;PFV;NEG
+来る	見えなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 来る	見えました	V;FORM;ELEV;PST;PFV;POL;FOREG
 来る	見えませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 来る	見えただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -5026,6 +5085,7 @@
 来る	お見えになるでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL
 来る	お見えになった	V;FORM;ELEV;PST;PFV
 来る	お見えにならなかった	V;FORM;ELEV;PST;PFV;NEG
+来る	お見えにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 来る	お見えになりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 来る	お見えになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 来る	お見えになろう	V;FORM;ELEV;INTEN
@@ -5152,6 +5212,7 @@
 来る	伺わないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 来る	伺った	V;FORM;HUMB;PST;PFV
 来る	伺わなかった	V;FORM;HUMB;PST;PFV;NEG
+来る	伺わなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 来る	伺いました	V;FORM;HUMB;PST;PFV;POL;FOREG
 来る	伺いませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 来る	伺っただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -5216,6 +5277,7 @@
 来る	上がらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 来る	上がった	V;FORM;HUMB;PST;PFV
 来る	上がらなかった	V;FORM;HUMB;PST;PFV;NEG
+来る	上がらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 来る	上がりました	V;FORM;HUMB;PST;PFV;POL;FOREG
 来る	上がりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 来る	上がっただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -5296,6 +5358,7 @@
 消す	消さないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 消す	消した	V;PST;PFV
 消す	消さなかった	V;PST;PFV;NEG
+消す	消さなかったです	V;PST;PFV;POL;NEG;COL
 消す	消しました	V;PST;PFV;POL;FOREG
 消す	消しませんでした	V;PST;PFV;POL;FOREG;NEG
 消す	消しただろう	V;PST;PFV;PROSP
@@ -5388,6 +5451,7 @@
 答える	答えないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 答える	答えた	V;PST;PFV
 答える	答えなかった	V;PST;PFV;NEG
+答える	答えなかったです	V;PST;PFV;POL;NEG;COL
 答える	答えました	V;PST;PFV;POL;FOREG
 答える	答えませんでした	V;PST;PFV;POL;FOREG;NEG
 答える	答えただろう	V;PST;PFV;PROSP
@@ -5488,6 +5552,7 @@
 困る	困らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 困る	困った	V;PST;PFV
 困る	困らなかった	V;PST;PFV;NEG
+困る	困らなかったです	V;PST;PFV;POL;NEG;COL
 困る	困りました	V;PST;PFV;POL;FOREG
 困る	困りませんでした	V;PST;PFV;POL;FOREG;NEG
 困る	困っただろう	V;PST;PFV;PROSP
@@ -5575,6 +5640,7 @@
 咲く	咲かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 咲く	咲いた	V;PST;PFV
 咲く	咲かなかった	V;PST;PFV;NEG
+咲く	咲かなかったです	V;PST;PFV;POL;NEG;COL
 咲く	咲きました	V;PST;PFV;POL;FOREG
 咲く	咲きませんでした	V;PST;PFV;POL;FOREG;NEG
 咲く	咲いただろう	V;PST;PFV;PROSP
@@ -5665,6 +5731,7 @@
 さす	ささないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 さす	さした	V;PST;PFV
 さす	ささなかった	V;PST;PFV;NEG
+さす	ささなかったです	V;PST;PFV;POL;NEG;COL
 さす	さしました	V;PST;PFV;POL;FOREG
 さす	さしませんでした	V;PST;PFV;POL;FOREG;NEG
 さす	さしただろう	V;PST;PFV;PROSP
@@ -5758,6 +5825,7 @@
 死ぬ	死なないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 死ぬ	死んだ	V;PST;PFV
 死ぬ	死ななかった	V;PST;PFV;NEG
+死ぬ	死ななかったです	V;PST;PFV;POL;NEG;COL
 死ぬ	死にました	V;PST;PFV;POL;FOREG
 死ぬ	死にませんでした	V;PST;PFV;POL;FOREG;NEG
 死ぬ	死んだだろう	V;PST;PFV;PROSP
@@ -5845,6 +5913,7 @@
 閉まる	閉まらないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 閉まる	閉まった	V;PST;PFV
 閉まる	閉まらなかった	V;PST;PFV;NEG
+閉まる	閉まらなかったです	V;PST;PFV;POL;NEG;COL
 閉まる	閉まりました	V;PST;PFV;POL;FOREG
 閉まる	閉まりませんでした	V;PST;PFV;POL;FOREG;NEG
 閉まる	閉まっただろう	V;PST;PFV;PROSP
@@ -5888,6 +5957,7 @@
 閉める	閉めないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 閉める	閉めた	V;PST;PFV
 閉める	閉めなかった	V;PST;PFV;NEG
+閉める	閉めなかったです	V;PST;PFV;POL;NEG;COL
 閉める	閉めました	V;PST;PFV;POL;FOREG
 閉める	閉めませんでした	V;PST;PFV;POL;FOREG;NEG
 閉める	閉めただろう	V;PST;PFV;PROSP
@@ -6051,6 +6121,7 @@
 知る	知らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 知る	知った	V;PST;PFV
 知る	知らなかった	V;PST;PFV;NEG
+知る	知らなかったです	V;PST;PFV;POL;NEG;COL
 知る	知りました	V;PST;PFV;POL;FOREG
 知る	知りませんでした	V;PST;PFV;POL;FOREG;NEG
 知る	知っただろう	V;PST;PFV;PROSP
@@ -6165,6 +6236,7 @@
 吸う	吸わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 吸う	吸った	V;PST;PFV
 吸う	吸わなかった	V;PST;PFV;NEG
+吸う	吸わなかったです	V;PST;PFV;POL;NEG;COL
 吸う	吸いました	V;PST;PFV;POL;FOREG
 吸う	吸いませんでした	V;PST;PFV;POL;FOREG;NEG
 吸う	吸っただろう	V;PST;PFV;PROSP
@@ -6230,6 +6302,7 @@
 吸う	吸わせました	V;PST;PFV;CAUS;POL;FOREG
 吸う	吸わせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 吸う	吸わす	V;PRS;IPFV;CAUS
+吸う	吸わさない	V;PRS;IPFV;CAUS;NEG
 吸う	吸わします	V;PRS;IPFV;CAUS;POL;FOREG
 吸う	吸わした	V;PST;PFV;CAUS
 吸う	吸わしました	V;PST;PFV;CAUS;POL;FOREG
@@ -6266,6 +6339,7 @@
 住む	住まないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 住む	住んだ	V;PST;PFV
 住む	住まなかった	V;PST;PFV;NEG
+住む	住まなかったです	V;PST;PFV;POL;NEG;COL
 住む	住みました	V;PST;PFV;POL;FOREG
 住む	住みませんでした	V;PST;PFV;POL;FOREG;NEG
 住む	住んだだろう	V;PST;PFV;PROSP
@@ -6363,6 +6437,7 @@
 する	しないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 する	した	V;PST;PFV
 する	しなかった	V;PST;PFV;NEG
+する	しなかったです	V;PST;PFV;POL;NEG;COL
 する	しました	V;PST;PFV;POL;FOREG
 する	しませんでした	V;PST;PFV;POL;FOREG;NEG
 する	しただろう	V;PST;PFV;PROSP
@@ -6464,6 +6539,7 @@
 する	なさらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 する	なさった	V;FORM;ELEV;PST;PFV
 する	なさらなかった	V;FORM;ELEV;PST;PFV;NEG
+する	なさらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 する	なさりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 する	なさりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 する	なさっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -6506,6 +6582,7 @@
 する	なさらせない	V;FORM;ELEV;PRS;IPFV;CAUS;NEG
 する	なさらす	V;FORM;ELEV;PRS;IPFV;CAUS
 する	なさらさない	V;FORM;ELEV;PRS;IPFV;CAUS;NEG
+する	なさらした	V;FORM;ELEV;PST;PFV;CAUS
 する	なさらされる	V;FORM;ELEV;PRS;IPFV;CAUS;PASS
 する	なさらされた	V;FORM;ELEV;PST;PFV;CAUS;PASS
 する	いたす	V;FORM;HUMB;PRS;IPFV
@@ -6568,6 +6645,7 @@
 座る	座らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 座る	座った	V;PST;PFV
 座る	座らなかった	V;PST;PFV;NEG
+座る	座らなかったです	V;PST;PFV;POL;NEG;COL
 座る	座りました	V;PST;PFV;POL;FOREG
 座る	座りませんでした	V;PST;PFV;POL;FOREG;NEG
 座る	座っただろう	V;PST;PFV;PROSP
@@ -6650,6 +6728,7 @@
 座る	座らされない	V;PRS;IPFV;CAUS;PASS;NEG
 座る	座らされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG
 座る	座らされた	V;PST;PFV;CAUS;PASS
+座る	座らされました	V;PST;PFV;CAUS;PASS;POL;FOREG
 座る	お座りになる	V;FORM;ELEV;PRS;IPFV
 座る	お座りにならない	V;FORM;ELEV;PRS;IPFV;NEG
 座る	お座りになります	V;FORM;ELEV;PRS;IPFV;POL;FOREG
@@ -6680,6 +6759,7 @@
 出す	出さないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 出す	出した	V;PST;PFV
 出す	出さなかった	V;PST;PFV;NEG
+出す	出さなかったです	V;PST;PFV;POL;NEG;COL
 出す	出しました	V;PST;PFV;POL;FOREG
 出す	出しませんでした	V;PST;PFV;POL;FOREG;NEG
 出す	出しただろう	V;PST;PFV;PROSP
@@ -6746,10 +6826,12 @@
 出す	出させなかった	V;PST;PFV;CAUS;NEG
 出す	出させました	V;PST;PFV;CAUS;POL;FOREG
 出す	出させませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
+出す	出さす	V;PRS;IPFV;CAUS
 出す	出ささない	V;PRS;IPFV;CAUS;NEG
 出す	出さします	V;PRS;IPFV;CAUS;POL;FOREG
 出す	出さしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG
 出す	出さした	V;PST;PFV;CAUS
+出す	出ささなかった	V;PST;PFV;CAUS;NEG
 出す	出さしました	V;PST;PFV;CAUS;POL;FOREG
 出す	出させられる	V;PRS;IPFV;CAUS;PASS
 出す	出させられない	V;PRS;IPFV;CAUS;PASS;NEG
@@ -6795,6 +6877,7 @@
 立つ	立たないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 立つ	立った	V;PST;PFV
 立つ	立たなかった	V;PST;PFV;NEG
+立つ	立たなかったです	V;PST;PFV;POL;NEG;COL
 立つ	立ちました	V;PST;PFV;POL;FOREG
 立つ	立ちませんでした	V;PST;PFV;POL;FOREG;NEG
 立つ	立っただろう	V;PST;PFV;PROSP
@@ -6910,6 +6993,7 @@
 頼む	頼まないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 頼む	頼んだ	V;PST;PFV
 頼む	頼まなかった	V;PST;PFV;NEG
+頼む	頼まなかったです	V;PST;PFV;POL;NEG;COL
 頼む	頼みました	V;PST;PFV;POL;FOREG
 頼む	頼みませんでした	V;PST;PFV;POL;FOREG;NEG
 頼む	頼んだだろう	V;PST;PFV;PROSP
@@ -7003,6 +7087,7 @@
 食べる	食べないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 食べる	食べた	V;PST;PFV
 食べる	食べなかった	V;PST;PFV;NEG
+食べる	食べなかったです	V;PST;PFV;POL;NEG;COL
 食べる	食べました	V;PST;PFV;POL;FOREG
 食べる	食べませんでした	V;PST;PFV;POL;FOREG;NEG
 食べる	食べただろう	V;PST;PFV;PROSP
@@ -7110,6 +7195,7 @@
 食べる	あがらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 食べる	あがった	V;FORM;ELEV;PST;PFV
 食べる	あがらなかった	V;FORM;ELEV;PST;PFV;NEG
+食べる	あがらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 食べる	あがりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 食べる	あがりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 食べる	あがっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -7188,6 +7274,7 @@
 食べる	召し上がらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 食べる	召し上がった	V;FORM;ELEV;PST;PFV
 食べる	召し上がらなかった	V;FORM;ELEV;PST;PFV;NEG
+食べる	召し上がらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 食べる	召し上がりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 食べる	召し上がりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 食べる	召し上がっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -7247,6 +7334,7 @@
 食べる	いただかないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 食べる	いただいた	V;FORM;HUMB;PST;PFV
 食べる	いただかなかった	V;FORM;HUMB;PST;PFV;NEG
+食べる	いただかなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 食べる	いただきました	V;FORM;HUMB;PST;PFV;POL;FOREG
 食べる	いただきませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 食べる	いただいただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -7310,6 +7398,7 @@
 違う	違わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 違う	違った	V;PST;PFV
 違う	違わなかった	V;PST;PFV;NEG
+違う	違わなかったです	V;PST;PFV;POL;NEG;COL
 違う	違いました	V;PST;PFV;POL;FOREG
 違う	違いませんでした	V;PST;PFV;POL;FOREG;NEG
 違う	違っただろう	V;PST;PFV;PROSP
@@ -7377,6 +7466,7 @@
 使う	使わないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 使う	使った	V;PST;PFV
 使う	使わなかった	V;PST;PFV;NEG
+使う	使わなかったです	V;PST;PFV;POL;NEG;COL
 使う	使いました	V;PST;PFV;POL;FOREG
 使う	使いませんでした	V;PST;PFV;POL;FOREG;NEG
 使う	使っただろう	V;PST;PFV;PROSP
@@ -7444,6 +7534,7 @@
 使う	使わせました	V;PST;PFV;CAUS;POL;FOREG
 使う	使わせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 使う	使わす	V;PRS;IPFV;CAUS
+使う	使わさない	V;PRS;IPFV;CAUS;NEG
 使う	使わします	V;PRS;IPFV;CAUS;POL;FOREG
 使う	使わしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG
 使う	使わした	V;PST;PFV;CAUS
@@ -7495,6 +7586,7 @@
 疲れる	疲れないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 疲れる	疲れた	V;PST;PFV
 疲れる	疲れなかった	V;PST;PFV;NEG
+疲れる	疲れなかったです	V;PST;PFV;POL;NEG;COL
 疲れる	疲れました	V;PST;PFV;POL;FOREG
 疲れる	疲れませんでした	V;PST;PFV;POL;FOREG;NEG
 疲れる	疲れただろう	V;PST;PFV;PROSP
@@ -7542,6 +7634,7 @@
 疲れる	疲れさせました	V;PST;PFV;CAUS;POL;FOREG
 疲れる	疲れさせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 疲れる	疲れさす	V;PRS;IPFV;CAUS
+疲れる	疲れささない	V;PRS;IPFV;CAUS;NEG
 疲れる	疲れさした	V;PST;PFV;CAUS
 疲れる	疲れさせられる	V;PRS;IPFV;CAUS;PASS
 疲れる	疲れさせられない	V;PRS;IPFV;CAUS;PASS;NEG
@@ -7573,6 +7666,7 @@
 着く	着かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 着く	着いた	V;PST;PFV
 着く	着かなかった	V;PST;PFV;NEG
+着く	着かなかったです	V;PST;PFV;POL;NEG;COL
 着く	着きました	V;PST;PFV;POL;FOREG
 着く	着きませんでした	V;PST;PFV;POL;FOREG;NEG
 着く	着いただろう	V;PST;PFV;PROSP
@@ -7637,6 +7731,7 @@
 着く	着かせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 着く	着かす	V;PRS;IPFV;CAUS
 着く	着かさない	V;PRS;IPFV;CAUS;NEG
+着く	着かした	V;PST;PFV;CAUS
 着く	着かせられる	V;PRS;IPFV;CAUS;PASS
 着く	着かせられない	V;PRS;IPFV;CAUS;PASS;NEG
 着く	着かせられます	V;PRS;IPFV;CAUS;PASS;POL;FOREG
@@ -7670,6 +7765,7 @@
 作る	作らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 作る	作った	V;PST;PFV
 作る	作らなかった	V;PST;PFV;NEG
+作る	作らなかったです	V;PST;PFV;POL;NEG;COL
 作る	作りました	V;PST;PFV;POL;FOREG
 作る	作りませんでした	V;PST;PFV;POL;FOREG;NEG
 作る	作っただろう	V;PST;PFV;PROSP
@@ -7785,6 +7881,7 @@
 点ける	点けないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 点ける	点けた	V;PST;PFV
 点ける	点けなかった	V;PST;PFV;NEG
+点ける	点けなかったです	V;PST;PFV;POL;NEG;COL
 点ける	点けました	V;PST;PFV;POL;FOREG
 点ける	点けませんでした	V;PST;PFV;POL;FOREG;NEG
 点ける	点けただろう	V;PST;PFV;PROSP
@@ -7950,6 +8047,7 @@
 出かける	出かけないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 出かける	出かけた	V;PST;PFV
 出かける	出かけなかった	V;PST;PFV;NEG
+出かける	出かけなかったです	V;PST;PFV;POL;NEG;COL
 出かける	出かけました	V;PST;PFV;POL;FOREG
 出かける	出かけませんでした	V;PST;PFV;POL;FOREG;NEG
 出かける	出かけただろう	V;PST;PFV;PROSP
@@ -8050,6 +8148,7 @@
 出来る	出来ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 出来る	出来た	V;PST;PFV
 出来る	出来なかった	V;PST;PFV;NEG
+出来る	出来なかったです	V;PST;PFV;POL;NEG;COL
 出来る	出来ました	V;PST;PFV;POL;FOREG
 出来る	出来ませんでした	V;PST;PFV;POL;FOREG;NEG
 出来る	出来ただろう	V;PST;PFV;PROSP
@@ -8123,6 +8222,7 @@
 出る	出ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 出る	出た	V;PST;PFV
 出る	出なかった	V;PST;PFV;NEG
+出る	出なかったです	V;PST;PFV;POL;NEG;COL
 出る	出ました	V;PST;PFV;POL;FOREG
 出る	出ませんでした	V;PST;PFV;POL;FOREG;NEG
 出る	出ただろう	V;PST;PFV;PROSP
@@ -8189,10 +8289,12 @@
 出る	出させなかった	V;PST;PFV;CAUS;NEG
 出る	出させました	V;PST;PFV;CAUS;POL;FOREG
 出る	出させませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
+出る	出さす	V;PRS;IPFV;CAUS
 出る	出ささない	V;PRS;IPFV;CAUS;NEG
 出る	出さします	V;PRS;IPFV;CAUS;POL;FOREG
 出る	出さしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG
 出る	出さした	V;PST;PFV;CAUS
+出る	出ささなかった	V;PST;PFV;CAUS;NEG
 出る	出さしました	V;PST;PFV;CAUS;POL;FOREG
 出る	出させられる	V;PRS;IPFV;CAUS;PASS
 出る	出させられない	V;PRS;IPFV;CAUS;PASS;NEG
@@ -8231,6 +8333,7 @@
 飛ぶ	飛ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 飛ぶ	飛んだ	V;PST;PFV
 飛ぶ	飛ばなかった	V;PST;PFV;NEG
+飛ぶ	飛ばなかったです	V;PST;PFV;POL;NEG;COL
 飛ぶ	飛びました	V;PST;PFV;POL;FOREG
 飛ぶ	飛びませんでした	V;PST;PFV;POL;FOREG;NEG
 飛ぶ	飛んだだろう	V;PST;PFV;PROSP
@@ -8333,6 +8436,7 @@
 止まる	止まらないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 止まる	止まった	V;PST;PFV
 止まる	止まらなかった	V;PST;PFV;NEG
+止まる	止まらなかったです	V;PST;PFV;POL;NEG;COL
 止まる	止まりました	V;PST;PFV;POL;FOREG
 止まる	止まりませんでした	V;PST;PFV;POL;FOREG;NEG
 止まる	止まっただろう	V;PST;PFV;PROSP
@@ -8427,6 +8531,7 @@
 取る	取らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 取る	取った	V;PST;PFV
 取る	取らなかった	V;PST;PFV;NEG
+取る	取らなかったです	V;PST;PFV;POL;NEG;COL
 取る	取りました	V;PST;PFV;POL;FOREG
 取る	取りませんでした	V;PST;PFV;POL;FOREG;NEG
 取る	取っただろう	V;PST;PFV;PROSP
@@ -8515,6 +8620,7 @@
 取る	取らされた	V;PST;PFV;CAUS;PASS
 取る	取らされなかった	V;PST;PFV;CAUS;PASS;NEG
 取る	取らされました	V;PST;PFV;CAUS;PASS;POL;FOREG
+取る	取らされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG
 取る	お取りになる	V;FORM;ELEV;PRS;IPFV
 取る	お取りにならない	V;FORM;ELEV;PRS;IPFV;NEG
 取る	お取りになります	V;FORM;ELEV;PRS;IPFV;POL;FOREG
@@ -8545,6 +8651,7 @@
 撮る	撮らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 撮る	撮った	V;PST;PFV
 撮る	撮らなかった	V;PST;PFV;NEG
+撮る	撮らなかったです	V;PST;PFV;POL;NEG;COL
 撮る	撮りました	V;PST;PFV;POL;FOREG
 撮る	撮りませんでした	V;PST;PFV;POL;FOREG;NEG
 撮る	撮っただろう	V;PST;PFV;PROSP
@@ -8612,6 +8719,7 @@
 撮る	撮らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 撮る	撮らす	V;PRS;IPFV;CAUS
 撮る	撮らさない	V;PRS;IPFV;CAUS;NEG
+撮る	撮らした	V;PST;PFV;CAUS
 撮る	撮らさなかった	V;PST;PFV;CAUS;NEG
 撮る	撮らしました	V;PST;PFV;CAUS;POL;FOREG
 撮る	撮らせられる	V;PRS;IPFV;CAUS;PASS
@@ -8653,6 +8761,7 @@
 鳴く	鳴かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 鳴く	鳴いた	V;PST;PFV
 鳴く	鳴かなかった	V;PST;PFV;NEG
+鳴く	鳴かなかったです	V;PST;PFV;POL;NEG;COL
 鳴く	鳴きました	V;PST;PFV;POL;FOREG
 鳴く	鳴きませんでした	V;PST;PFV;POL;FOREG;NEG
 鳴く	鳴いただろう	V;PST;PFV;PROSP
@@ -8736,6 +8845,7 @@
 並ぶ	並ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 並ぶ	並んだ	V;PST;PFV
 並ぶ	並ばなかった	V;PST;PFV;NEG
+並ぶ	並ばなかったです	V;PST;PFV;POL;NEG;COL
 並ぶ	並びました	V;PST;PFV;POL;FOREG
 並ぶ	並びませんでした	V;PST;PFV;POL;FOREG;NEG
 並ぶ	並んだだろう	V;PST;PFV;PROSP
@@ -8838,6 +8948,7 @@
 並べる	並べないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 並べる	並べた	V;PST;PFV
 並べる	並べなかった	V;PST;PFV;NEG
+並べる	並べなかったです	V;PST;PFV;POL;NEG;COL
 並べる	並べました	V;PST;PFV;POL;FOREG
 並べる	並べませんでした	V;PST;PFV;POL;FOREG;NEG
 並べる	並べただろう	V;PST;PFV;PROSP
@@ -8920,6 +9031,7 @@
 なる	ならないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 なる	なった	V;PST;PFV
 なる	ならなかった	V;PST;PFV;NEG
+なる	ならなかったです	V;PST;PFV;POL;NEG;COL
 なる	なりました	V;PST;PFV;POL;FOREG
 なる	なりませんでした	V;PST;PFV;POL;FOREG;NEG
 なる	なっただろう	V;PST;PFV;PROSP
@@ -9030,6 +9142,7 @@
 脱ぐ	脱がないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 脱ぐ	脱いだ	V;PST;PFV
 脱ぐ	脱がなかった	V;PST;PFV;NEG
+脱ぐ	脱がなかったです	V;PST;PFV;POL;NEG;COL
 脱ぐ	脱ぎました	V;PST;PFV;POL;FOREG
 脱ぐ	脱ぎませんでした	V;PST;PFV;POL;FOREG;NEG
 脱ぐ	脱いだだろう	V;PST;PFV;PROSP
@@ -9139,6 +9252,7 @@
 寝る	寝ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 寝る	寝た	V;PST;PFV
 寝る	寝なかった	V;PST;PFV;NEG
+寝る	寝なかったです	V;PST;PFV;POL;NEG;COL
 寝る	寝ました	V;PST;PFV;POL;FOREG
 寝る	寝ませんでした	V;PST;PFV;POL;FOREG;NEG
 寝る	寝ただろう	V;PST;PFV;PROSP
@@ -9233,6 +9347,7 @@
 登る	登らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 登る	登った	V;PST;PFV
 登る	登らなかった	V;PST;PFV;NEG
+登る	登らなかったです	V;PST;PFV;POL;NEG;COL
 登る	登りました	V;PST;PFV;POL;FOREG
 登る	登りませんでした	V;PST;PFV;POL;FOREG;NEG
 登る	登っただろう	V;PST;PFV;PROSP
@@ -9296,6 +9411,7 @@
 登る	登らせなかった	V;PST;PFV;CAUS;NEG
 登る	登らせました	V;PST;PFV;CAUS;POL;FOREG
 登る	登らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
+登る	登らす	V;PRS;IPFV;CAUS
 登る	登らさない	V;PRS;IPFV;CAUS;NEG
 登る	登らした	V;PST;PFV;CAUS
 登る	登らせられる	V;PRS;IPFV;CAUS;PASS
@@ -9331,6 +9447,7 @@
 飲む	飲まないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 飲む	飲んだ	V;PST;PFV
 飲む	飲まなかった	V;PST;PFV;NEG
+飲む	飲まなかったです	V;PST;PFV;POL;NEG;COL
 飲む	飲みました	V;PST;PFV;POL;FOREG
 飲む	飲みませんでした	V;PST;PFV;POL;FOREG;NEG
 飲む	飲んだだろう	V;PST;PFV;PROSP
@@ -9448,6 +9565,7 @@
 飲む	あがらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 飲む	あがった	V;FORM;ELEV;PST;PFV
 飲む	あがらなかった	V;FORM;ELEV;PST;PFV;NEG
+飲む	あがらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 飲む	あがりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 飲む	あがりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 飲む	あがっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -9526,6 +9644,7 @@
 飲む	召し上がらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG
 飲む	召し上がった	V;FORM;ELEV;PST;PFV
 飲む	召し上がらなかった	V;FORM;ELEV;PST;PFV;NEG
+飲む	召し上がらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL
 飲む	召し上がりました	V;FORM;ELEV;PST;PFV;POL;FOREG
 飲む	召し上がりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG
 飲む	召し上がっただろう	V;FORM;ELEV;PST;PFV;PROSP
@@ -9585,6 +9704,7 @@
 飲む	いただかないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG
 飲む	いただいた	V;FORM;HUMB;PST;PFV
 飲む	いただかなかった	V;FORM;HUMB;PST;PFV;NEG
+飲む	いただかなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL
 飲む	いただきました	V;FORM;HUMB;PST;PFV;POL;FOREG
 飲む	いただきませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG
 飲む	いただいただろう	V;FORM;HUMB;PST;PFV;PROSP
@@ -9648,6 +9768,7 @@
 乗る	乗らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 乗る	乗った	V;PST;PFV
 乗る	乗らなかった	V;PST;PFV;NEG
+乗る	乗らなかったです	V;PST;PFV;POL;NEG;COL
 乗る	乗りました	V;PST;PFV;POL;FOREG
 乗る	乗りませんでした	V;PST;PFV;POL;FOREG;NEG
 乗る	乗っただろう	V;PST;PFV;PROSP
@@ -9715,6 +9836,7 @@
 乗る	乗らせました	V;PST;PFV;CAUS;POL;FOREG
 乗る	乗らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 乗る	乗らす	V;PRS;IPFV;CAUS
+乗る	乗らさない	V;PRS;IPFV;CAUS;NEG
 乗る	乗らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG
 乗る	乗らした	V;PST;PFV;CAUS
 乗る	乗らしました	V;PST;PFV;CAUS;POL;FOREG
@@ -9753,6 +9875,7 @@
 入る	入らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 入る	入った	V;PST;PFV
 入る	入らなかった	V;PST;PFV;NEG
+入る	入らなかったです	V;PST;PFV;POL;NEG;COL
 入る	入りました	V;PST;PFV;POL;FOREG
 入る	入りませんでした	V;PST;PFV;POL;FOREG;NEG
 入る	入っただろう	V;PST;PFV;PROSP
@@ -9819,6 +9942,7 @@
 入る	入らせなかった	V;PST;PFV;CAUS;NEG
 入る	入らせました	V;PST;PFV;CAUS;POL;FOREG
 入る	入らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
+入る	入らす	V;PRS;IPFV;CAUS
 入る	入らさない	V;PRS;IPFV;CAUS;NEG
 入る	入らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG
 入る	入らした	V;PST;PFV;CAUS
@@ -9861,6 +9985,7 @@
 履く	履かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 履く	履いた	V;PST;PFV
 履く	履かなかった	V;PST;PFV;NEG
+履く	履かなかったです	V;PST;PFV;POL;NEG;COL
 履く	履きました	V;PST;PFV;POL;FOREG
 履く	履きませんでした	V;PST;PFV;POL;FOREG;NEG
 履く	履いただろう	V;PST;PFV;PROSP
@@ -9967,6 +10092,7 @@
 始まる	始まらないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 始まる	始まった	V;PST;PFV
 始まる	始まらなかった	V;PST;PFV;NEG
+始まる	始まらなかったです	V;PST;PFV;POL;NEG;COL
 始まる	始まりました	V;PST;PFV;POL;FOREG
 始まる	始まりませんでした	V;PST;PFV;POL;FOREG;NEG
 始まる	始まっただろう	V;PST;PFV;PROSP
@@ -10030,6 +10156,7 @@
 走る	走らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 走る	走った	V;PST;PFV
 走る	走らなかった	V;PST;PFV;NEG
+走る	走らなかったです	V;PST;PFV;POL;NEG;COL
 走る	走りました	V;PST;PFV;POL;FOREG
 走る	走りませんでした	V;PST;PFV;POL;FOREG;NEG
 走る	走っただろう	V;PST;PFV;PROSP
@@ -10134,6 +10261,7 @@
 働く	働かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 働く	働いた	V;PST;PFV
 働く	働かなかった	V;PST;PFV;NEG
+働く	働かなかったです	V;PST;PFV;POL;NEG;COL
 働く	働きました	V;PST;PFV;POL;FOREG
 働く	働きませんでした	V;PST;PFV;POL;FOREG;NEG
 働く	働いただろう	V;PST;PFV;PROSP
@@ -10198,6 +10326,7 @@
 働く	働かせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 働く	働かす	V;PRS;IPFV;CAUS
 働く	働かさない	V;PRS;IPFV;CAUS;NEG
+働く	働かします	V;PRS;IPFV;CAUS;POL;FOREG
 働く	働かしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG
 働く	働かした	V;PST;PFV;CAUS
 働く	働かさなかった	V;PST;PFV;CAUS;NEG
@@ -10240,6 +10369,7 @@
 話す	話さないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 話す	話した	V;PST;PFV
 話す	話さなかった	V;PST;PFV;NEG
+話す	話さなかったです	V;PST;PFV;POL;NEG;COL
 話す	話しました	V;PST;PFV;POL;FOREG
 話す	話しませんでした	V;PST;PFV;POL;FOREG;NEG
 話す	話しただろう	V;PST;PFV;PROSP
@@ -10350,6 +10480,7 @@
 張る	張らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 張る	張った	V;PST;PFV
 張る	張らなかった	V;PST;PFV;NEG
+張る	張らなかったです	V;PST;PFV;POL;NEG;COL
 張る	張りました	V;PST;PFV;POL;FOREG
 張る	張りませんでした	V;PST;PFV;POL;FOREG;NEG
 張る	張っただろう	V;PST;PFV;PROSP
@@ -10412,6 +10543,7 @@
 張る	張らさない	V;PRS;IPFV;CAUS;NEG
 張る	張らします	V;PRS;IPFV;CAUS;POL;FOREG
 張る	張らした	V;PST;PFV;CAUS
+張る	張らしました	V;PST;PFV;CAUS;POL;FOREG
 張る	張らせられる	V;PRS;IPFV;CAUS;PASS
 張る	張らせられない	V;PRS;IPFV;CAUS;PASS;NEG
 張る	張らせられます	V;PRS;IPFV;CAUS;PASS;POL;FOREG
@@ -10442,6 +10574,7 @@
 晴れる	晴れないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 晴れる	晴れた	V;PST;PFV
 晴れる	晴れなかった	V;PST;PFV;NEG
+晴れる	晴れなかったです	V;PST;PFV;POL;NEG;COL
 晴れる	晴れました	V;PST;PFV;POL;FOREG
 晴れる	晴れませんでした	V;PST;PFV;POL;FOREG;NEG
 晴れる	晴れただろう	V;PST;PFV;PROSP
@@ -10495,6 +10628,7 @@
 引く	引かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 引く	引いた	V;PST;PFV
 引く	引かなかった	V;PST;PFV;NEG
+引く	引かなかったです	V;PST;PFV;POL;NEG;COL
 引く	引きました	V;PST;PFV;POL;FOREG
 引く	引きませんでした	V;PST;PFV;POL;FOREG;NEG
 引く	引いただろう	V;PST;PFV;PROSP
@@ -10559,6 +10693,7 @@
 引く	引かせました	V;PST;PFV;CAUS;POL;FOREG
 引く	引かせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG
 引く	引かす	V;PRS;IPFV;CAUS
+引く	引かさない	V;PRS;IPFV;CAUS;NEG
 引く	引かします	V;PRS;IPFV;CAUS;POL;FOREG
 引く	引かしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG
 引く	引かした	V;PST;PFV;CAUS
@@ -10599,6 +10734,7 @@
 弾く	弾かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 弾く	弾いた	V;PST;PFV
 弾く	弾かなかった	V;PST;PFV;NEG
+弾く	弾かなかったです	V;PST;PFV;POL;NEG;COL
 弾く	弾きました	V;PST;PFV;POL;FOREG
 弾く	弾きませんでした	V;PST;PFV;POL;FOREG;NEG
 弾く	弾いただろう	V;PST;PFV;PROSP
@@ -10698,6 +10834,7 @@
 吹く	吹かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 吹く	吹いた	V;PST;PFV
 吹く	吹かなかった	V;PST;PFV;NEG
+吹く	吹かなかったです	V;PST;PFV;POL;NEG;COL
 吹く	吹きました	V;PST;PFV;POL;FOREG
 吹く	吹きませんでした	V;PST;PFV;POL;FOREG;NEG
 吹く	吹いただろう	V;PST;PFV;PROSP
@@ -10799,6 +10936,7 @@
 降る	降らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 降る	降った	V;PST;PFV
 降る	降らなかった	V;PST;PFV;NEG
+降る	降らなかったです	V;PST;PFV;POL;NEG;COL
 降る	降りました	V;PST;PFV;POL;FOREG
 降る	降りませんでした	V;PST;PFV;POL;FOREG;NEG
 降る	降っただろう	V;PST;PFV;PROSP
@@ -10905,6 +11043,7 @@
 曲がる	曲がらないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 曲がる	曲がった	V;PST;PFV
 曲がる	曲がらなかった	V;PST;PFV;NEG
+曲がる	曲がらなかったです	V;PST;PFV;POL;NEG;COL
 曲がる	曲がりました	V;PST;PFV;POL;FOREG
 曲がる	曲がりませんでした	V;PST;PFV;POL;FOREG;NEG
 曲がる	曲がっただろう	V;PST;PFV;PROSP
@@ -10978,6 +11117,7 @@
 待つ	待たないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 待つ	待った	V;PST;PFV
 待つ	待たなかった	V;PST;PFV;NEG
+待つ	待たなかったです	V;PST;PFV;POL;NEG;COL
 待つ	待ちました	V;PST;PFV;POL;FOREG
 待つ	待ちませんでした	V;PST;PFV;POL;FOREG;NEG
 待つ	待っただろう	V;PST;PFV;PROSP
@@ -11090,6 +11230,7 @@
 磨く	磨かないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 磨く	磨いた	V;PST;PFV
 磨く	磨かなかった	V;PST;PFV;NEG
+磨く	磨かなかったです	V;PST;PFV;POL;NEG;COL
 磨く	磨きました	V;PST;PFV;POL;FOREG
 磨く	磨きませんでした	V;PST;PFV;POL;FOREG;NEG
 磨く	磨いただろう	V;PST;PFV;PROSP
@@ -11179,6 +11320,7 @@
 見せる	見せないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 見せる	見せた	V;PST;PFV
 見せる	見せなかった	V;PST;PFV;NEG
+見せる	見せなかったです	V;PST;PFV;POL;NEG;COL
 見せる	見せました	V;PST;PFV;POL;FOREG
 見せる	見せませんでした	V;PST;PFV;POL;FOREG;NEG
 見せる	見せただろう	V;PST;PFV;PROSP
@@ -11280,6 +11422,7 @@
 見る	見ないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 見る	見た	V;PST;PFV
 見る	見なかった	V;PST;PFV;NEG
+見る	見なかったです	V;PST;PFV;POL;NEG;COL
 見る	見ました	V;PST;PFV;POL;FOREG
 見る	見ませんでした	V;PST;PFV;POL;FOREG;NEG
 見る	見ただろう	V;PST;PFV;PROSP
@@ -11466,6 +11609,7 @@
 見る	拝見させた	V;FORM;HUMB;PST;PFV;CAUS
 見る	拝見させました	V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG
 見る	拝見さす	V;FORM;HUMB;PRS;IPFV;CAUS
+見る	拝見さした	V;FORM;HUMB;PST;PFV;CAUS
 見る	拝見さしました	V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG
 見る	拝見させられる	V;FORM;HUMB;PRS;IPFV;CAUS;PASS
 持つ	持つ	V;PRS;IPFV
@@ -11479,6 +11623,7 @@
 持つ	持たないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 持つ	持った	V;PST;PFV
 持つ	持たなかった	V;PST;PFV;NEG
+持つ	持たなかったです	V;PST;PFV;POL;NEG;COL
 持つ	持ちました	V;PST;PFV;POL;FOREG
 持つ	持ちませんでした	V;PST;PFV;POL;FOREG;NEG
 持つ	持っただろう	V;PST;PFV;PROSP
@@ -11565,6 +11710,7 @@
 持つ	持たされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG
 持つ	持たされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG
 持つ	持たされた	V;PST;PFV;CAUS;PASS
+持つ	持たされなかった	V;PST;PFV;CAUS;PASS;NEG
 持つ	持たされました	V;PST;PFV;CAUS;PASS;POL;FOREG
 持つ	持たされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG
 持つ	お持ちになる	V;FORM;ELEV;PRS;IPFV
@@ -11599,6 +11745,7 @@
 休む	休まないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 休む	休んだ	V;PST;PFV
 休む	休まなかった	V;PST;PFV;NEG
+休む	休まなかったです	V;PST;PFV;POL;NEG;COL
 休む	休みました	V;PST;PFV;POL;FOREG
 休む	休みませんでした	V;PST;PFV;POL;FOREG;NEG
 休む	休んだだろう	V;PST;PFV;PROSP
@@ -11715,6 +11862,7 @@
 やる	やらないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 やる	やった	V;PST;PFV
 やる	やらなかった	V;PST;PFV;NEG
+やる	やらなかったです	V;PST;PFV;POL;NEG;COL
 やる	やりました	V;PST;PFV;POL;FOREG
 やる	やりませんでした	V;PST;PFV;POL;FOREG;NEG
 やる	やっただろう	V;PST;PFV;PROSP
@@ -11829,6 +11977,7 @@
 呼ぶ	呼ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 呼ぶ	呼んだ	V;PST;PFV
 呼ぶ	呼ばなかった	V;PST;PFV;NEG
+呼ぶ	呼ばなかったです	V;PST;PFV;POL;NEG;COL
 呼ぶ	呼びました	V;PST;PFV;POL;FOREG
 呼ぶ	呼びませんでした	V;PST;PFV;POL;FOREG;NEG
 呼ぶ	呼んだだろう	V;PST;PFV;PROSP
@@ -11942,6 +12091,7 @@
 読む	読まないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 読む	読んだ	V;PST;PFV
 読む	読まなかった	V;PST;PFV;NEG
+読む	読まなかったです	V;PST;PFV;POL;NEG;COL
 読む	読みました	V;PST;PFV;POL;FOREG
 読む	読みませんでした	V;PST;PFV;POL;FOREG;NEG
 読む	読んだだろう	V;PST;PFV;PROSP
@@ -12058,6 +12208,7 @@
 分かる	分からないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 分かる	分かった	V;PST;PFV
 分かる	分からなかった	V;PST;PFV;NEG
+分かる	分からなかったです	V;PST;PFV;POL;NEG;COL
 分かる	分かりました	V;PST;PFV;POL;FOREG
 分かる	分かりませんでした	V;PST;PFV;POL;FOREG;NEG
 分かる	分かっただろう	V;PST;PFV;PROSP
@@ -12245,6 +12396,7 @@
 忘れる	忘れないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 忘れる	忘れた	V;PST;PFV
 忘れる	忘れなかった	V;PST;PFV;NEG
+忘れる	忘れなかったです	V;PST;PFV;POL;NEG;COL
 忘れる	忘れました	V;PST;PFV;POL;FOREG
 忘れる	忘れませんでした	V;PST;PFV;POL;FOREG;NEG
 忘れる	忘れただろう	V;PST;PFV;PROSP
@@ -12345,6 +12497,7 @@
 渡す	渡さないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 渡す	渡した	V;PST;PFV
 渡す	渡さなかった	V;PST;PFV;NEG
+渡す	渡さなかったです	V;PST;PFV;POL;NEG;COL
 渡す	渡しました	V;PST;PFV;POL;FOREG
 渡す	渡しませんでした	V;PST;PFV;POL;FOREG;NEG
 渡す	渡しただろう	V;PST;PFV;PROSP
@@ -12445,6 +12598,7 @@
 渡る	渡らないでしょう	V;PRS;IPFV;PROSP;POL;NEG
 渡る	渡った	V;PST;PFV
 渡る	渡らなかった	V;PST;PFV;NEG
+渡る	渡らなかったです	V;PST;PFV;POL;NEG;COL
 渡る	渡りました	V;PST;PFV;POL;FOREG
 渡る	渡りませんでした	V;PST;PFV;POL;FOREG;NEG
 渡る	渡っただろう	V;PST;PFV;PROSP

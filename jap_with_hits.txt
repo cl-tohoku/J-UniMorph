@@ -10,6 +10,7 @@ lemma	inflected	label	hits
 会う	会わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	410000
 会う	会った	V;PST;PFV	43900000
 会う	会わなかった	V;PST;PFV;NEG	536000
+会う	会わなかったです	V;PST;PFV;POL;NEG;COL	176000
 会う	会いました	V;PST;PFV;POL;FOREG	7910000
 会う	会いませんでした	V;PST;PFV;POL;FOREG;NEG	1570000
 会う	会っただろう	V;PST;PFV;PROSP	2920
@@ -135,6 +136,7 @@ lemma	inflected	label	hits
 会う	お目にかからないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	12800
 会う	お目にかかった	V;FORM;HUMB;PST;PFV	402000
 会う	お目にかからなかった	V;FORM;HUMB;PST;PFV;NEG	12000
+会う	お目にかからなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2510
 会う	お目にかかりました	V;FORM;HUMB;PST;PFV;POL;FOREG	105000
 会う	お目にかかりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	15000
 会う	お目にかかっただろう	V;FORM;HUMB;PST;PFV;PROSP	76
@@ -226,6 +228,7 @@ lemma	inflected	label	hits
 開く	開かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	430000
 開く	開いた	V;PST;PFV	47600000
 開く	開かなかった	V;PST;PFV;NEG	724000
+開く	開かなかったです	V;PST;PFV;POL;NEG;COL	2240000
 開く	開きました	V;PST;PFV;POL;FOREG	4700000
 開く	開きませんでした	V;PST;PFV;POL;FOREG;NEG	3770000
 開く	開いただろう	V;PST;PFV;PROSP	22500
@@ -351,6 +354,7 @@ lemma	inflected	label	hits
 開ける	開けないでしょう	V;PRS;IPFV;PROSP;POL;NEG	278000
 開ける	開けた	V;PST;PFV	53400000
 開ける	開けなかった	V;PST;PFV;NEG	1360000
+開ける	開けなかったです	V;PST;PFV;POL;NEG;COL	484000
 開ける	開けました	V;PST;PFV;POL;FOREG	6280000
 開ける	開けませんでした	V;PST;PFV;POL;FOREG;NEG	1430000
 開ける	開けただろう	V;PST;PFV;PROSP	50600
@@ -468,6 +472,7 @@ lemma	inflected	label	hits
 あげる	あげないでしょう	V;PRS;IPFV;PROSP;POL;NEG	836000
 あげる	あげた	V;PST;PFV	54400000
 あげる	あげなかった	V;PST;PFV;NEG	1120000
+あげる	あげなかったです	V;PST;PFV;POL;NEG;COL	45000
 あげる	あげました	V;PST;PFV;POL;FOREG	15200000
 あげる	あげませんでした	V;PST;PFV;POL;FOREG;NEG	138000
 あげる	あげただろう	V;PST;PFV;PROSP	19200
@@ -585,6 +590,7 @@ lemma	inflected	label	hits
 あげる	差し上げないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	7
 あげる	差し上げた	V;FORM;HUMB;PST;PFV	6570000
 あげる	差し上げなかった	V;FORM;HUMB;PST;PFV;NEG	28000
+あげる	差し上げなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2
 あげる	差し上げました	V;FORM;HUMB;PST;PFV;POL;FOREG	1040000
 あげる	差し上げませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	6480
 あげる	差し上げただろう	V;FORM;HUMB;PST;PFV;PROSP	145
@@ -668,6 +674,7 @@ lemma	inflected	label	hits
 遊ぶ	遊ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG	119000
 遊ぶ	遊んだ	V;PST;PFV	21500000
 遊ぶ	遊ばなかった	V;PST;PFV;NEG	489000
+遊ぶ	遊ばなかったです	V;PST;PFV;POL;NEG;COL	74700
 遊ぶ	遊びました	V;PST;PFV;POL;FOREG	5640000
 遊ぶ	遊びませんでした	V;PST;PFV;POL;FOREG;NEG	872000
 遊ぶ	遊んだだろう	V;PST;PFV;PROSP	129000
@@ -793,6 +800,7 @@ lemma	inflected	label	hits
 浴びる	浴びないでしょう	V;PRS;IPFV;PROSP;POL;NEG	30500
 浴びる	浴びた	V;PST;PFV	12200000
 浴びる	浴びなかった	V;PST;PFV;NEG	34500
+浴びる	浴びなかったです	V;PST;PFV;POL;NEG;COL	3250
 浴びる	浴びました	V;PST;PFV;POL;FOREG	2320000
 浴びる	浴びませんでした	V;PST;PFV;POL;FOREG;NEG	14200
 浴びる	浴びただろう	V;PST;PFV;PROSP	2730
@@ -910,6 +918,7 @@ lemma	inflected	label	hits
 洗う	洗わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	281000
 洗う	洗った	V;PST;PFV	35600000
 洗う	洗わなかった	V;PST;PFV;NEG	179000
+洗う	洗わなかったです	V;PST;PFV;POL;NEG;COL	39300
 洗う	洗いました	V;PST;PFV;POL;FOREG	4830000
 洗う	洗いませんでした	V;PST;PFV;POL;FOREG;NEG	341000
 洗う	洗っただろう	V;PST;PFV;PROSP	6070
@@ -1035,6 +1044,7 @@ lemma	inflected	label	hits
 有る	有らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	3
 有る	有った	V;PST;PFV	8760000
 有る	有らなかった	V;PST;PFV;NEG	1400
+有る	有らなかったです	V;PST;PFV;POL;NEG;COL	4
 有る	有りました	V;PST;PFV;POL;FOREG	15000000
 有る	有りませんでした	V;PST;PFV;POL;FOREG;NEG	18700000
 有る	有っただろう	V;PST;PFV;PROSP	26600
@@ -1160,6 +1170,7 @@ lemma	inflected	label	hits
 ある	ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	98600000
 ある	あった	V;PST;PFV	501000000
 ある	なかった	V;PST;PFV;NEG	457000000
+ある	なかったです	V;PST;PFV;POL;NEG;COL	138000000
 ある	ありました	V;PST;PFV;POL;FOREG	153000000
 ある	ありませんでした	V;PST;PFV;POL;FOREG;NEG	81800000
 ある	あっただろう	V;PST;PFV;PROSP	979000
@@ -1285,6 +1296,7 @@ lemma	inflected	label	hits
 歩く	歩かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	112000
 歩く	歩いた	V;PST;PFV	20000000
 歩く	歩かなかった	V;PST;PFV;NEG	852000
+歩く	歩かなかったです	V;PST;PFV;POL;NEG;COL	60200
 歩く	歩きました	V;PST;PFV;POL;FOREG	6380000
 歩く	歩きませんでした	V;PST;PFV;POL;FOREG;NEG	751000
 歩く	歩いただろう	V;PST;PFV;PROSP	7600
@@ -1351,6 +1363,7 @@ lemma	inflected	label	hits
 歩く	歩かせなかった	V;PST;PFV;CAUS;NEG	7710
 歩く	歩かせました	V;PST;PFV;CAUS;POL;FOREG	279000
 歩く	歩かせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2950
+歩く	歩かす	V;PRS;IPFV;CAUS	8410
 歩く	歩かさない	V;PRS;IPFV;CAUS;NEG	3650
 歩く	歩かします	V;PRS;IPFV;CAUS;POL;FOREG	1910
 歩く	歩かしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	8
@@ -1409,6 +1422,7 @@ lemma	inflected	label	hits
 言う	言わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	13000000
 言う	言った	V;PST;PFV	96000000
 言う	言わなかった	V;PST;PFV;NEG	13300000
+言う	言わなかったです	V;PST;PFV;POL;NEG;COL	963000
 言う	言いました	V;PST;PFV;POL;FOREG	24000000
 言う	言いませんでした	V;PST;PFV;POL;FOREG;NEG	13500000
 言う	言っただろう	V;PST;PFV;PROSP	541000
@@ -1534,6 +1548,7 @@ lemma	inflected	label	hits
 言う	おっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	14900
 言う	おっしゃった	V;FORM;ELEV;PST;PFV	1790000
 言う	おっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG	68800
+言う	おっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	3530
 言う	おっしゃりました	V;FORM;ELEV;PST;PFV;POL;FOREG	14000
 言う	おっしゃりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	4540
 言う	おっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP	382
@@ -1609,6 +1624,7 @@ lemma	inflected	label	hits
 言う	おっしゃらせられなかった	V;FORM;ELEV;PST;PFV;CAUS;PASS;NEG	0
 言う	おっしゃらせられました	V;FORM;ELEV;PST;PFV;CAUS;PASS;POL;FOREG	1
 言う	おっしゃらせられませんでした	V;FORM;ELEV;PST;PFV;CAUS;PASS;POL;FOREG;NEG	1
+言う	おっしゃらされる	V;FORM;ELEV;PRS;IPFV;CAUS;PASS	2
 言う	おっしゃらされない	V;FORM;ELEV;PRS;IPFV;CAUS;PASS;NEG	2
 言う	おっしゃらされます	V;FORM;ELEV;PRS;IPFV;CAUS;PASS;POL;FOREG	2
 言う	おっしゃらされません	V;FORM;ELEV;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	2
@@ -1635,6 +1651,7 @@ lemma	inflected	label	hits
 言う	申さないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	10
 言う	申した	V;FORM;HUMB;PST;PFV	442000
 言う	申さなかった	V;FORM;HUMB;PST;PFV;NEG	6750
+言う	申さなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	7
 言う	申しました	V;FORM;HUMB;PST;PFV;POL;FOREG	1030000
 言う	申しませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	67800
 言う	申しただろう	V;FORM;HUMB;PST;PFV;PROSP	499
@@ -1726,6 +1743,7 @@ lemma	inflected	label	hits
 言う	申し上げないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	4870
 言う	申し上げた	V;FORM;HUMB;PST;PFV	1720000
 言う	申し上げなかった	V;FORM;HUMB;PST;PFV;NEG	5050
+言う	申し上げなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	1020
 言う	申し上げました	V;FORM;HUMB;PST;PFV;POL;FOREG	1590000
 言う	申し上げませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	33900
 言う	申し上げただろう	V;FORM;HUMB;PST;PFV;PROSP	1270
@@ -1809,6 +1827,7 @@ lemma	inflected	label	hits
 行く	行かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	17200000
 行く	行った	V;PST;PFV	347000000
 行く	行かなかった	V;PST;PFV;NEG	7390000
+行く	行かなかったです	V;PST;PFV;POL;NEG;COL	12900000
 行く	行きました	V;PST;PFV;POL;FOREG	38900000
 行く	行きませんでした	V;PST;PFV;POL;FOREG;NEG	13800000
 行く	行っただろう	V;PST;PFV;PROSP	128000
@@ -1934,6 +1953,7 @@ lemma	inflected	label	hits
 行く	いらっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	219000
 行く	いらっしゃった	V;FORM;ELEV;PST;PFV	6160000
 行く	いらっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG	238000
+行く	いらっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	110000
 行く	いらっしゃいました	V;FORM;ELEV;PST;PFV;POL;FOREG	27200000
 行く	いらっしゃいませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	14700000
 行く	いらっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP	2900
@@ -2036,6 +2056,7 @@ lemma	inflected	label	hits
 行く	おいでにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	6850
 行く	おいでになった	V;FORM;ELEV;PST;PFV	340000
 行く	おいでにならなかった	V;FORM;ELEV;PST;PFV;NEG	27500
+行く	おいでにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	5210
 行く	おいでになりました	V;FORM;ELEV;PST;PFV;POL;FOREG	191000
 行く	おいでになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	30300
 行く	おいでになっただろう	V;FORM;ELEV;PST;PFV;PROSP	4
@@ -2138,6 +2159,7 @@ lemma	inflected	label	hits
 行く	まいらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	309
 行く	まいった	V;FORM;HUMB;PST;PFV	748000
 行く	まいらなかった	V;FORM;HUMB;PST;PFV;NEG	1460
+行く	まいらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2
 行く	まいりました	V;FORM;HUMB;PST;PFV;POL;FOREG	37600000
 行く	まいりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	64500
 行く	まいっただろう	V;FORM;HUMB;PST;PFV;PROSP	319
@@ -2229,6 +2251,7 @@ lemma	inflected	label	hits
 行く	伺わないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	4810
 行く	伺った	V;FORM;HUMB;PST;PFV	17200000
 行く	伺わなかった	V;FORM;HUMB;PST;PFV;NEG	3840
+行く	伺わなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	1190
 行く	伺いました	V;FORM;HUMB;PST;PFV;POL;FOREG	29400000
 行く	伺いませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	47800
 行く	伺っただろう	V;FORM;HUMB;PST;PFV;PROSP	153
@@ -2320,6 +2343,7 @@ lemma	inflected	label	hits
 行く	上がらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	2370000
 行く	上がった	V;FORM;HUMB;PST;PFV	51200000
 行く	上がらなかった	V;FORM;HUMB;PST;PFV;NEG	4220000
+行く	上がらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2730000
 行く	上がりました	V;FORM;HUMB;PST;PFV;POL;FOREG	19600000
 行く	上がりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	1240000
 行く	上がっただろう	V;FORM;HUMB;PST;PFV;PROSP	117000
@@ -2411,6 +2435,7 @@ lemma	inflected	label	hits
 居る	居ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	7510000
 居る	居た	V;PST;PFV	21100000
 居る	居なかった	V;PST;PFV;NEG	4500000
+居る	居なかったです	V;PST;PFV;POL;NEG;COL	617000
 居る	居ました	V;PST;PFV;POL;FOREG	16800000
 居る	居ませんでした	V;PST;PFV;POL;FOREG;NEG	5350000
 居る	居ただろう	V;PST;PFV;PROSP	87200
@@ -2528,6 +2553,7 @@ lemma	inflected	label	hits
 居る	いらっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	219000
 居る	いらっしゃった	V;FORM;ELEV;PST;PFV	6160000
 居る	いらっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG	238000
+居る	いらっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	110000
 居る	いらっしゃいました	V;FORM;ELEV;PST;PFV;POL;FOREG	27200000
 居る	いらっしゃいませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	14700000
 居る	いらっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP	2900
@@ -2630,6 +2656,7 @@ lemma	inflected	label	hits
 居る	おいでにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	6850
 居る	おいでになった	V;FORM;ELEV;PST;PFV	340000
 居る	おいでにならなかった	V;FORM;ELEV;PST;PFV;NEG	27500
+居る	おいでにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	5210
 居る	おいでになりました	V;FORM;ELEV;PST;PFV;POL;FOREG	191000
 居る	おいでになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	30300
 居る	おいでになっただろう	V;FORM;ELEV;PST;PFV;PROSP	4
@@ -2732,6 +2759,7 @@ lemma	inflected	label	hits
 居る	おらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	43400
 居る	おった	V;FORM;HUMB;PST;PFV	6180000
 居る	おらなかった	V;FORM;HUMB;PST;PFV;NEG	35800
+居る	おらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	9040
 居る	おりました	V;FORM;HUMB;PST;PFV;POL;FOREG	59000000
 居る	おりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	43800000
 居る	おっただろう	V;FORM;HUMB;PST;PFV;PROSP	9400
@@ -2823,6 +2851,7 @@ lemma	inflected	label	hits
 要る	要らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	5980000
 要る	要った	V;PST;PFV	870000
 要る	要らなかった	V;PST;PFV;NEG	1340000
+要る	要らなかったです	V;PST;PFV;POL;NEG;COL	645000
 要る	要りました	V;PST;PFV;POL;FOREG	1030000
 要る	要りませんでした	V;PST;PFV;POL;FOREG;NEG	1060000
 要る	要っただろう	V;PST;PFV;PROSP	5580
@@ -2948,6 +2977,7 @@ lemma	inflected	label	hits
 入れる	入れないでしょう	V;PRS;IPFV;PROSP;POL;NEG	11000000
 入れる	入れた	V;PST;PFV	137000000
 入れる	入れなかった	V;PST;PFV;NEG	5900000
+入れる	入れなかったです	V;PST;PFV;POL;NEG;COL	625000
 入れる	入れました	V;PST;PFV;POL;FOREG	28300000
 入れる	入れませんでした	V;PST;PFV;POL;FOREG;NEG	6980000
 入れる	入れただろう	V;PST;PFV;PROSP	44800
@@ -3065,6 +3095,7 @@ lemma	inflected	label	hits
 歌う	歌わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	66600
 歌う	歌った	V;PST;PFV	17100000
 歌う	歌わなかった	V;PST;PFV;NEG	61100
+歌う	歌わなかったです	V;PST;PFV;POL;NEG;COL	13300
 歌う	歌いました	V;PST;PFV;POL;FOREG	6170000
 歌う	歌いませんでした	V;PST;PFV;POL;FOREG;NEG	214000
 歌う	歌っただろう	V;PST;PFV;PROSP	6720
@@ -3147,6 +3178,8 @@ lemma	inflected	label	hits
 歌う	歌わせられなかった	V;PST;PFV;CAUS;PASS;NEG	3920
 歌う	歌わせられました	V;PST;PFV;CAUS;PASS;POL;FOREG	7650
 歌う	歌わせられませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	405
+歌う	歌わされる	V;PRS;IPFV;CAUS;PASS	79600
+歌う	歌わされない	V;PRS;IPFV;CAUS;PASS;NEG	234
 歌う	歌わされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	55100
 歌う	歌わされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	9
 歌う	歌わされた	V;PST;PFV;CAUS;PASS	238000
@@ -3188,6 +3221,7 @@ lemma	inflected	label	hits
 生まれる	生まれないでしょう	V;PRS;IPFV;PROSP;POL;NEG	1400000
 生まれる	生まれた	V;PST;PFV	124000000
 生まれる	生まれなかった	V;PST;PFV;NEG	1070000
+生まれる	生まれなかったです	V;PST;PFV;POL;NEG;COL	52200
 生まれる	生まれました	V;PST;PFV;POL;FOREG	15500000
 生まれる	生まれませんでした	V;PST;PFV;POL;FOREG;NEG	1980000
 生まれる	生まれただろう	V;PST;PFV;PROSP	16000
@@ -3255,6 +3289,7 @@ lemma	inflected	label	hits
 生まれる	生まれさせました	V;PST;PFV;CAUS;POL;FOREG	20400
 生まれる	生まれさせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	3
 生まれる	生まれさす	V;PRS;IPFV;CAUS	2950
+生まれる	生まれささない	V;PRS;IPFV;CAUS;NEG	3
 生まれる	生まれさします	V;PRS;IPFV;CAUS;POL;FOREG	2
 生まれる	生まれさしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	2
 生まれる	生まれさした	V;PST;PFV;CAUS	86
@@ -3304,6 +3339,7 @@ lemma	inflected	label	hits
 売る	売らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	196000
 売る	売った	V;PST;PFV	17900000
 売る	売らなかった	V;PST;PFV;NEG	310000
+売る	売らなかったです	V;PST;PFV;POL;NEG;COL	9590
 売る	売りました	V;PST;PFV;POL;FOREG	939000
 売る	売りませんでした	V;PST;PFV;POL;FOREG;NEG	436000
 売る	売っただろう	V;PST;PFV;PROSP	4540
@@ -3429,6 +3465,7 @@ lemma	inflected	label	hits
 起きる	起きないでしょう	V;PRS;IPFV;PROSP;POL;NEG	2820000
 起きる	起きた	V;PST;PFV	125000000
 起きる	起きなかった	V;PST;PFV;NEG	3370000
+起きる	起きなかったです	V;PST;PFV;POL;NEG;COL	1740000
 起きる	起きました	V;PST;PFV;POL;FOREG	10400000
 起きる	起きませんでした	V;PST;PFV;POL;FOREG;NEG	4460000
 起きる	起きただろう	V;PST;PFV;PROSP	20400
@@ -3546,6 +3583,7 @@ lemma	inflected	label	hits
 おく	おかないでしょう	V;PRS;IPFV;PROSP;POL;NEG	71500
 おく	おいた	V;PST;PFV	42900000
 おく	おかなかった	V;PST;PFV;NEG	413000
+おく	おかなかったです	V;PST;PFV;POL;NEG;COL	8
 おく	おきました	V;PST;PFV;POL;FOREG	13300000
 おく	おきませんでした	V;PST;PFV;POL;FOREG;NEG	1320000
 おく	おいただろう	V;PST;PFV;PROSP	14300
@@ -3671,6 +3709,7 @@ lemma	inflected	label	hits
 送る	送らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	182000
 送る	送った	V;PST;PFV	38600000
 送る	送らなかった	V;PST;PFV;NEG	461000
+送る	送らなかったです	V;PST;PFV;POL;NEG;COL	20500
 送る	送りました	V;PST;PFV;POL;FOREG	16200000
 送る	送りませんでした	V;PST;PFV;POL;FOREG;NEG	653000
 送る	送っただろう	V;PST;PFV;PROSP	13900
@@ -3796,6 +3835,7 @@ lemma	inflected	label	hits
 押す	押さないでしょう	V;PRS;IPFV;PROSP;POL;NEG	164000
 押す	押した	V;PST;PFV	26700000
 押す	押さなかった	V;PST;PFV;NEG	681000
+押す	押さなかったです	V;PST;PFV;POL;NEG;COL	38200
 押す	押しました	V;PST;PFV;POL;FOREG	1740000
 押す	押しませんでした	V;PST;PFV;POL;FOREG;NEG	95100
 押す	押しただろう	V;PST;PFV;PROSP	6300
@@ -3921,6 +3961,7 @@ lemma	inflected	label	hits
 覚える	覚えないでしょう	V;PRS;IPFV;PROSP;POL;NEG	156000
 覚える	覚えた	V;PST;PFV	29400000
 覚える	覚えなかった	V;PST;PFV;NEG	107000
+覚える	覚えなかったです	V;PST;PFV;POL;NEG;COL	21100
 覚える	覚えました	V;PST;PFV;POL;FOREG	8910000
 覚える	覚えませんでした	V;PST;PFV;POL;FOREG;NEG	357000
 覚える	覚えただろう	V;PST;PFV;PROSP	19700
@@ -4038,6 +4079,7 @@ lemma	inflected	label	hits
 泳ぐ	泳がないでしょう	V;PRS;IPFV;PROSP;POL;NEG	38800
 泳ぐ	泳いだ	V;PST;PFV	5910000
 泳ぐ	泳がなかった	V;PST;PFV;NEG	342000
+泳ぐ	泳がなかったです	V;PST;PFV;POL;NEG;COL	21500
 泳ぐ	泳ぎました	V;PST;PFV;POL;FOREG	520000
 泳ぐ	泳ぎませんでした	V;PST;PFV;POL;FOREG;NEG	163000
 泳ぐ	泳いだだろう	V;PST;PFV;PROSP	3030
@@ -4163,6 +4205,7 @@ lemma	inflected	label	hits
 降りる	降りないでしょう	V;PRS;IPFV;PROSP;POL;NEG	50900
 降りる	降りた	V;PST;PFV	12800000
 降りる	降りなかった	V;PST;PFV;NEG	473000
+降りる	降りなかったです	V;PST;PFV;POL;NEG;COL	14700
 降りる	降りました	V;PST;PFV;POL;FOREG	3670000
 降りる	降りませんでした	V;PST;PFV;POL;FOREG;NEG	364000
 降りる	降りただろう	V;PST;PFV;PROSP	1760
@@ -4280,6 +4323,7 @@ lemma	inflected	label	hits
 終わる	終わらないでしょう	V;PRS;IPFV;PROSP;POL;NEG	1920000
 終わる	終わった	V;PST;PFV	72400000
 終わる	終わらなかった	V;PST;PFV;NEG	1710000
+終わる	終わらなかったです	V;PST;PFV;POL;NEG;COL	92700
 終わる	終わりました	V;PST;PFV;POL;FOREG	27100000
 終わる	終わりませんでした	V;PST;PFV;POL;FOREG;NEG	441000
 終わる	終わっただろう	V;PST;PFV;PROSP	61300
@@ -4405,6 +4449,7 @@ lemma	inflected	label	hits
 買う	買わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	2590000
 買う	買った	V;PST;PFV	94900000
 買う	買わなかった	V;PST;PFV;NEG	6080000
+買う	買わなかったです	V;PST;PFV;POL;NEG;COL	1870000
 買う	買いました	V;PST;PFV;POL;FOREG	36700000
 買う	買いませんでした	V;PST;PFV;POL;FOREG;NEG	10600000
 買う	買っただろう	V;PST;PFV;PROSP	86000
@@ -4530,6 +4575,7 @@ lemma	inflected	label	hits
 返す	返さないでしょう	V;PRS;IPFV;PROSP;POL;NEG	7
 返す	返した	V;PST;PFV	11400000
 返す	返さなかった	V;PST;PFV;NEG	95800
+返す	返さなかったです	V;PST;PFV;POL;NEG;COL	21700
 返す	返しました	V;PST;PFV;POL;FOREG	718000
 返す	返しませんでした	V;PST;PFV;POL;FOREG;NEG	327000
 返す	返しただろう	V;PST;PFV;PROSP	5520
@@ -4616,6 +4662,7 @@ lemma	inflected	label	hits
 返す	返さされない	V;PRS;IPFV;CAUS;PASS;NEG	8
 返す	返さされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	4
 返す	返さされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	0
+返す	返さされた	V;PST;PFV;CAUS;PASS	457
 返す	返さされなかった	V;PST;PFV;CAUS;PASS;NEG	0
 返す	返さされました	V;PST;PFV;CAUS;PASS;POL;FOREG	6
 返す	返さされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	0
@@ -4654,6 +4701,7 @@ lemma	inflected	label	hits
 帰る	帰らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	876000
 帰る	帰った	V;PST;PFV	18200000
 帰る	帰らなかった	V;PST;PFV;NEG	602000
+帰る	帰らなかったです	V;PST;PFV;POL;NEG;COL	22700
 帰る	帰りました	V;PST;PFV;POL;FOREG	16200000
 帰る	帰りませんでした	V;PST;PFV;POL;FOREG;NEG	340000
 帰る	帰っただろう	V;PST;PFV;PROSP	15600
@@ -4737,6 +4785,7 @@ lemma	inflected	label	hits
 帰る	帰らせられました	V;PST;PFV;CAUS;PASS;POL;FOREG	18900
 帰る	帰らせられませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	2
 帰る	帰らされる	V;PRS;IPFV;CAUS;PASS	96200
+帰る	帰らされない	V;PRS;IPFV;CAUS;PASS;NEG	875
 帰る	帰らされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	44400
 帰る	帰らされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	12400
 帰る	帰らされた	V;PST;PFV;CAUS;PASS	103000
@@ -4778,6 +4827,7 @@ lemma	inflected	label	hits
 かかる	かからないでしょう	V;PRS;IPFV;PROSP;POL;NEG	796000
 かかる	かかった	V;PST;PFV	44800000
 かかる	かからなかった	V;PST;PFV;NEG	2180000
+かかる	かからなかったです	V;PST;PFV;POL;NEG;COL	819000
 かかる	かかりました	V;PST;PFV;POL;FOREG	28000000
 かかる	かかりませんでした	V;PST;PFV;POL;FOREG;NEG	5820000
 かかる	かかっただろう	V;PST;PFV;PROSP	150000
@@ -4903,6 +4953,7 @@ lemma	inflected	label	hits
 書く	書かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	955000
 書く	書いた	V;PST;PFV	129000000
 書く	書かなかった	V;PST;PFV;NEG	3340000
+書く	書かなかったです	V;PST;PFV;POL;NEG;COL	230000
 書く	書きました	V;PST;PFV;POL;FOREG	26600000
 書く	書きませんでした	V;PST;PFV;POL;FOREG;NEG	3530000
 書く	書いただろう	V;PST;PFV;PROSP	41100
@@ -4988,6 +5039,7 @@ lemma	inflected	label	hits
 書く	書かされる	V;PRS;IPFV;CAUS;PASS	807000
 書く	書かされない	V;PRS;IPFV;CAUS;PASS;NEG	23600
 書く	書かされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	243000
+書く	書かされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	44200
 書く	書かされた	V;PST;PFV;CAUS;PASS	1390000
 書く	書かされなかった	V;PST;PFV;CAUS;PASS;NEG	32400
 書く	書かされました	V;PST;PFV;CAUS;PASS;POL;FOREG	420000
@@ -5027,6 +5079,7 @@ lemma	inflected	label	hits
 かける	かけないでしょう	V;PRS;IPFV;PROSP;POL;NEG	4590000
 かける	かけた	V;PST;PFV	70700000
 かける	かけなかった	V;PST;PFV;NEG	1250000
+かける	かけなかったです	V;PST;PFV;POL;NEG;COL	71300
 かける	かけました	V;PST;PFV;POL;FOREG	8380000
 かける	かけませんでした	V;PST;PFV;POL;FOREG;NEG	1750000
 かける	かけただろう	V;PST;PFV;PROSP	7260
@@ -5100,6 +5153,7 @@ lemma	inflected	label	hits
 かける	かけさした	V;PST;PFV;CAUS	4070
 かける	かけささなかった	V;PST;PFV;CAUS;NEG	5
 かける	かけさしました	V;PST;PFV;CAUS;POL;FOREG	9
+かける	かけさしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2
 かける	かけさせられる	V;PRS;IPFV;CAUS;PASS	306000
 かける	かけさせられない	V;PRS;IPFV;CAUS;PASS;NEG	76100
 かける	かけさせられます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	183000
@@ -5143,6 +5197,7 @@ lemma	inflected	label	hits
 貸す	貸さないでしょう	V;PRS;IPFV;PROSP;POL;NEG	88200
 貸す	貸した	V;PST;PFV	5220000
 貸す	貸さなかった	V;PST;PFV;NEG	56400
+貸す	貸さなかったです	V;PST;PFV;POL;NEG;COL	6000
 貸す	貸しました	V;PST;PFV;POL;FOREG	249000
 貸す	貸しませんでした	V;PST;PFV;POL;FOREG;NEG	21100
 貸す	貸しただろう	V;PST;PFV;PROSP	1830
@@ -5268,6 +5323,7 @@ lemma	inflected	label	hits
 冠る	冠らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	4
 冠る	冠った	V;PST;PFV	23700
 冠る	冠らなかった	V;PST;PFV;NEG	225
+冠る	冠らなかったです	V;PST;PFV;POL;NEG;COL	0
 冠る	冠りました	V;PST;PFV;POL;FOREG	3080
 冠る	冠りませんでした	V;PST;PFV;POL;FOREG;NEG	5
 冠る	冠っただろう	V;PST;PFV;PROSP	0
@@ -5334,6 +5390,7 @@ lemma	inflected	label	hits
 冠る	冠らせなかった	V;PST;PFV;CAUS;NEG	5
 冠る	冠らせました	V;PST;PFV;CAUS;POL;FOREG	39
 冠る	冠らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	5
+冠る	冠らす	V;PRS;IPFV;CAUS	1050
 冠る	冠らさない	V;PRS;IPFV;CAUS;NEG	0
 冠る	冠らします	V;PRS;IPFV;CAUS;POL;FOREG	0
 冠る	冠らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	0
@@ -5392,6 +5449,7 @@ lemma	inflected	label	hits
 借りる	借りないでしょう	V;PRS;IPFV;PROSP;POL;NEG	53600
 借りる	借りた	V;PST;PFV	18500000
 借りる	借りなかった	V;PST;PFV;NEG	279000
+借りる	借りなかったです	V;PST;PFV;POL;NEG;COL	6510
 借りる	借りました	V;PST;PFV;POL;FOREG	3970000
 借りる	借りませんでした	V;PST;PFV;POL;FOREG;NEG	169000
 借りる	借りただろう	V;PST;PFV;PROSP	1890
@@ -5463,6 +5521,7 @@ lemma	inflected	label	hits
 借りる	借りさします	V;PRS;IPFV;CAUS;POL;FOREG	783
 借りる	借りさしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	5
 借りる	借りさした	V;PST;PFV;CAUS	1820
+借りる	借りささなかった	V;PST;PFV;CAUS;NEG	2
 借りる	借りさしました	V;PST;PFV;CAUS;POL;FOREG	1270
 借りる	借りさしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2
 借りる	借りさせられる	V;PRS;IPFV;CAUS;PASS	5770
@@ -5508,6 +5567,7 @@ lemma	inflected	label	hits
 借りる	拝借しないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	0
 借りる	拝借した	V;FORM;HUMB;PST;PFV	1400000
 借りる	拝借しなかった	V;FORM;HUMB;PST;PFV;NEG	36100
+借りる	拝借しなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	0
 借りる	拝借しました	V;FORM;HUMB;PST;PFV;POL;FOREG	512000
 借りる	拝借しませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	6
 借りる	拝借しただろう	V;FORM;HUMB;PST;PFV;PROSP	1630
@@ -5591,6 +5651,7 @@ lemma	inflected	label	hits
 消える	消えないでしょう	V;PRS;IPFV;PROSP;POL;NEG	590000
 消える	消えた	V;PST;PFV	69700000
 消える	消えなかった	V;PST;PFV;NEG	811000
+消える	消えなかったです	V;PST;PFV;POL;NEG;COL	3040000
 消える	消えました	V;PST;PFV;POL;FOREG	8500000
 消える	消えませんでした	V;PST;PFV;POL;FOREG;NEG	28300000
 消える	消えただろう	V;PST;PFV;PROSP	19700
@@ -5708,6 +5769,7 @@ lemma	inflected	label	hits
 聞く	聞かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	2810000
 聞く	聞いた	V;PST;PFV	114000000
 聞く	聞かなかった	V;PST;PFV;NEG	1080000
+聞く	聞かなかったです	V;PST;PFV;POL;NEG;COL	333000
 聞く	聞きました	V;PST;PFV;POL;FOREG	71800000
 聞く	聞きませんでした	V;PST;PFV;POL;FOREG;NEG	1280000
 聞く	聞いただろう	V;PST;PFV;PROSP	15900
@@ -5833,6 +5895,7 @@ lemma	inflected	label	hits
 聞く	お耳に入らないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	0
 聞く	お耳に入った	V;FORM;ELEV;PST;PFV	18000
 聞く	お耳に入らなかった	V;FORM;ELEV;PST;PFV;NEG	868
+聞く	お耳に入らなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	0
 聞く	お耳に入りました	V;FORM;ELEV;PST;PFV;POL;FOREG	6230
 聞く	お耳に入りませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	5
 聞く	お耳に入っただろう	V;FORM;ELEV;PST;PFV;PROSP	0
@@ -5935,6 +5998,7 @@ lemma	inflected	label	hits
 聞く	伺わないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	4810
 聞く	伺った	V;FORM;HUMB;PST;PFV	17200000
 聞く	伺わなかった	V;FORM;HUMB;PST;PFV;NEG	3840
+聞く	伺わなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	1190
 聞く	伺いました	V;FORM;HUMB;PST;PFV;POL;FOREG	29400000
 聞く	伺いませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	47800
 聞く	伺っただろう	V;FORM;HUMB;PST;PFV;PROSP	153
@@ -6026,6 +6090,7 @@ lemma	inflected	label	hits
 聞く	承らないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	4
 聞く	承った	V;FORM;HUMB;PST;PFV	659000
 聞く	承らなかった	V;FORM;HUMB;PST;PFV;NEG	1050
+聞く	承らなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	0
 聞く	承りました	V;FORM;HUMB;PST;PFV;POL;FOREG	2830000
 聞く	承りませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	7
 聞く	承っただろう	V;FORM;HUMB;PST;PFV;PROSP	7
@@ -6117,6 +6182,7 @@ lemma	inflected	label	hits
 聞く	拝聴しないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	0
 聞く	拝聴した	V;FORM;HUMB;PST;PFV	98200
 聞く	拝聴しなかった	V;FORM;HUMB;PST;PFV;NEG	13700
+聞く	拝聴しなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	1
 聞く	拝聴しました	V;FORM;HUMB;PST;PFV;POL;FOREG	101000
 聞く	拝聴しませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	10
 聞く	拝聴しただろう	V;FORM;HUMB;PST;PFV;PROSP	0
@@ -6180,6 +6246,7 @@ lemma	inflected	label	hits
 聞く	拝聴さした	V;FORM;HUMB;PST;PFV;CAUS	0
 聞く	拝聴ささなかった	V;FORM;HUMB;PST;PFV;CAUS;NEG	0
 聞く	拝聴さしました	V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG	0
+聞く	拝聴さしませんでした	V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG;NEG	0
 聞く	拝聴させられる	V;FORM;HUMB;PRS;IPFV;CAUS;PASS	2630
 聞く	拝聴させられない	V;FORM;HUMB;PRS;IPFV;CAUS;PASS;NEG	0
 聞く	拝聴させられます	V;FORM;HUMB;PRS;IPFV;CAUS;PASS;POL;FOREG	1
@@ -6199,6 +6266,7 @@ lemma	inflected	label	hits
 切る	切らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	396000
 切る	切った	V;PST;PFV	41200000
 切る	切らなかった	V;PST;PFV;NEG	2550000
+切る	切らなかったです	V;PST;PFV;POL;NEG;COL	1270000
 切る	切りました	V;PST;PFV;POL;FOREG	11500000
 切る	切りませんでした	V;PST;PFV;POL;FOREG;NEG	782000
 切る	切っただろう	V;PST;PFV;PROSP	65800
@@ -6324,6 +6392,7 @@ lemma	inflected	label	hits
 着る	着ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	357000
 着る	着た	V;PST;PFV	55100000
 着る	着なかった	V;PST;PFV;NEG	1140000
+着る	着なかったです	V;PST;PFV;POL;NEG;COL	4840000
 着る	着ました	V;PST;PFV;POL;FOREG	4180000
 着る	着ませんでした	V;PST;PFV;POL;FOREG;NEG	4980000
 着る	着ただろう	V;PST;PFV;PROSP	45300
@@ -6441,6 +6510,7 @@ lemma	inflected	label	hits
 着る	召さないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	25500
 着る	召した	V;FORM;ELEV;PST;PFV	6160000
 着る	召さなかった	V;FORM;ELEV;PST;PFV;NEG	668000
+着る	召さなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	79200
 着る	召しました	V;FORM;ELEV;PST;PFV;POL;FOREG	799000
 着る	召しませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	118000
 着る	召しただろう	V;FORM;ELEV;PST;PFV;PROSP	100
@@ -6543,6 +6613,7 @@ lemma	inflected	label	hits
 着る	お召しにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	5
 着る	お召しになった	V;FORM;ELEV;PST;PFV	432000
 着る	お召しにならなかった	V;FORM;ELEV;PST;PFV;NEG	8470
+着る	お召しにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	1
 着る	お召しになりました	V;FORM;ELEV;PST;PFV;POL;FOREG	288000
 着る	お召しになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	31100
 着る	お召しになっただろう	V;FORM;ELEV;PST;PFV;PROSP	2
@@ -6645,6 +6716,7 @@ lemma	inflected	label	hits
 来る	来ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	15100000
 来る	来た	V;PST;PFV	188000000
 来る	来なかった	V;PST;PFV;NEG	15600000
+来る	来なかったです	V;PST;PFV;POL;NEG;COL	3810000
 来る	来ました	V;PST;PFV;POL;FOREG	45700000
 来る	来ませんでした	V;PST;PFV;POL;FOREG;NEG	13100000
 来る	来ただろう	V;PST;PFV;PROSP	29400
@@ -6744,6 +6816,7 @@ lemma	inflected	label	hits
 来る	いらっしゃらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	219000
 来る	いらっしゃった	V;FORM;ELEV;PST;PFV	6160000
 来る	いらっしゃらなかった	V;FORM;ELEV;PST;PFV;NEG	238000
+来る	いらっしゃらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	110000
 来る	いらっしゃいました	V;FORM;ELEV;PST;PFV;POL;FOREG	27200000
 来る	いらっしゃいませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	14700000
 来る	いらっしゃっただろう	V;FORM;ELEV;PST;PFV;PROSP	2900
@@ -6846,6 +6919,7 @@ lemma	inflected	label	hits
 来る	おいでにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	6850
 来る	おいでになった	V;FORM;ELEV;PST;PFV	340000
 来る	おいでにならなかった	V;FORM;ELEV;PST;PFV;NEG	27500
+来る	おいでにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	5210
 来る	おいでになりました	V;FORM;ELEV;PST;PFV;POL;FOREG	191000
 来る	おいでになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	30300
 来る	おいでになっただろう	V;FORM;ELEV;PST;PFV;PROSP	4
@@ -6948,6 +7022,7 @@ lemma	inflected	label	hits
 来る	見えないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	11800000
 来る	見えた	V;FORM;ELEV;PST;PFV	53700000
 来る	見えなかった	V;FORM;ELEV;PST;PFV;NEG	8690000
+来る	見えなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	15000000
 来る	見えました	V;FORM;ELEV;PST;PFV;POL;FOREG	19900000
 来る	見えませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	18900000
 来る	見えただろう	V;FORM;ELEV;PST;PFV;PROSP	237000
@@ -7041,6 +7116,7 @@ lemma	inflected	label	hits
 来る	お見えにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	9
 来る	お見えになった	V;FORM;ELEV;PST;PFV	419000
 来る	お見えにならなかった	V;FORM;ELEV;PST;PFV;NEG	23200
+来る	お見えにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	9330
 来る	お見えになりました	V;FORM;ELEV;PST;PFV;POL;FOREG	344000
 来る	お見えになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	48600
 来る	お見えになっただろう	V;FORM;ELEV;PST;PFV;PROSP	2
@@ -7143,6 +7219,7 @@ lemma	inflected	label	hits
 来る	お越しにならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	2810
 来る	お越しになった	V;FORM;ELEV;PST;PFV	674000
 来る	お越しにならなかった	V;FORM;ELEV;PST;PFV;NEG	30800
+来る	お越しにならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	0
 来る	お越しになりました	V;FORM;ELEV;PST;PFV;POL;FOREG	629000
 来る	お越しになりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	38200
 来る	お越しになっただろう	V;FORM;ELEV;PST;PFV;PROSP	5
@@ -7245,6 +7322,7 @@ lemma	inflected	label	hits
 来る	まいらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	309
 来る	まいった	V;FORM;HUMB;PST;PFV	748000
 来る	まいらなかった	V;FORM;HUMB;PST;PFV;NEG	1460
+来る	まいらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2
 来る	まいりました	V;FORM;HUMB;PST;PFV;POL;FOREG	37600000
 来る	まいりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	64500
 来る	まいっただろう	V;FORM;HUMB;PST;PFV;PROSP	319
@@ -7336,6 +7414,7 @@ lemma	inflected	label	hits
 来る	伺わないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	4810
 来る	伺った	V;FORM;HUMB;PST;PFV	17200000
 来る	伺わなかった	V;FORM;HUMB;PST;PFV;NEG	3840
+来る	伺わなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	1190
 来る	伺いました	V;FORM;HUMB;PST;PFV;POL;FOREG	29400000
 来る	伺いませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	47800
 来る	伺っただろう	V;FORM;HUMB;PST;PFV;PROSP	153
@@ -7427,6 +7506,7 @@ lemma	inflected	label	hits
 来る	上がらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	2370000
 来る	上がった	V;FORM;HUMB;PST;PFV	51200000
 来る	上がらなかった	V;FORM;HUMB;PST;PFV;NEG	4220000
+来る	上がらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2730000
 来る	上がりました	V;FORM;HUMB;PST;PFV;POL;FOREG	19600000
 来る	上がりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	1240000
 来る	上がっただろう	V;FORM;HUMB;PST;PFV;PROSP	117000
@@ -7518,6 +7598,7 @@ lemma	inflected	label	hits
 消す	消さないでしょう	V;PRS;IPFV;PROSP;POL;NEG	152000
 消す	消した	V;PST;PFV	22300000
 消す	消さなかった	V;PST;PFV;NEG	142000
+消す	消さなかったです	V;PST;PFV;POL;NEG;COL	5140
 消す	消しました	V;PST;PFV;POL;FOREG	5870000
 消す	消しませんでした	V;PST;PFV;POL;FOREG;NEG	127000
 消す	消しただろう	V;PST;PFV;PROSP	1010
@@ -7643,6 +7724,7 @@ lemma	inflected	label	hits
 答える	答えないでしょう	V;PRS;IPFV;PROSP;POL;NEG	167000
 答える	答えた	V;PST;PFV	28500000
 答える	答えなかった	V;PST;PFV;NEG	888000
+答える	答えなかったです	V;PST;PFV;POL;NEG;COL	25700
 答える	答えました	V;PST;PFV;POL;FOREG	7910000
 答える	答えませんでした	V;PST;PFV;POL;FOREG;NEG	613000
 答える	答えただろう	V;PST;PFV;PROSP	21300
@@ -7760,6 +7842,7 @@ lemma	inflected	label	hits
 困る	困らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	3340000
 困る	困った	V;PST;PFV	62000000
 困る	困らなかった	V;PST;PFV;NEG	2570000
+困る	困らなかったです	V;PST;PFV;POL;NEG;COL	282000
 困る	困りました	V;PST;PFV;POL;FOREG	19400000
 困る	困りませんでした	V;PST;PFV;POL;FOREG;NEG	6140000
 困る	困っただろう	V;PST;PFV;PROSP	255000
@@ -7885,6 +7968,7 @@ lemma	inflected	label	hits
 咲く	咲かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	57200
 咲く	咲いた	V;PST;PFV	17300000
 咲く	咲かなかった	V;PST;PFV;NEG	1250000
+咲く	咲かなかったです	V;PST;PFV;POL;NEG;COL	62400
 咲く	咲きました	V;PST;PFV;POL;FOREG	4130000
 咲く	咲きませんでした	V;PST;PFV;POL;FOREG;NEG	878000
 咲く	咲いただろう	V;PST;PFV;PROSP	1870
@@ -8010,6 +8094,7 @@ lemma	inflected	label	hits
 さす	ささないでしょう	V;PRS;IPFV;PROSP;POL;NEG	18500
 さす	さした	V;PST;PFV	2930000
 さす	ささなかった	V;PST;PFV;NEG	65100
+さす	ささなかったです	V;PST;PFV;POL;NEG;COL	4360
 さす	さしました	V;PST;PFV;POL;FOREG	761000
 さす	さしませんでした	V;PST;PFV;POL;FOREG;NEG	147000
 さす	さしただろう	V;PST;PFV;PROSP	9230
@@ -8135,6 +8220,7 @@ lemma	inflected	label	hits
 死ぬ	死なないでしょう	V;PRS;IPFV;PROSP;POL;NEG	1020000
 死ぬ	死んだ	V;PST;PFV	36100000
 死ぬ	死ななかった	V;PST;PFV;NEG	891000
+死ぬ	死ななかったです	V;PST;PFV;POL;NEG;COL	52400
 死ぬ	死にました	V;PST;PFV;POL;FOREG	3150000
 死ぬ	死にませんでした	V;PST;PFV;POL;FOREG;NEG	2050000
 死ぬ	死んだだろう	V;PST;PFV;PROSP	755000
@@ -8260,6 +8346,7 @@ lemma	inflected	label	hits
 閉まる	閉まらないでしょう	V;PRS;IPFV;PROSP;POL;NEG	127000
 閉まる	閉まった	V;PST;PFV	5200000
 閉まる	閉まらなかった	V;PST;PFV;NEG	3910000
+閉まる	閉まらなかったです	V;PST;PFV;POL;NEG;COL	481000
 閉まる	閉まりました	V;PST;PFV;POL;FOREG	5330000
 閉まる	閉まりませんでした	V;PST;PFV;POL;FOREG;NEG	4810000
 閉まる	閉まっただろう	V;PST;PFV;PROSP	480
@@ -8330,6 +8417,7 @@ lemma	inflected	label	hits
 閉まる	閉まらさない	V;PRS;IPFV;CAUS;NEG	0
 閉まる	閉まらします	V;PRS;IPFV;CAUS;POL;FOREG	0
 閉まる	閉まらしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	1
+閉まる	閉まらした	V;PST;PFV;CAUS	0
 閉まる	閉まらさなかった	V;PST;PFV;CAUS;NEG	0
 閉まる	閉まらしました	V;PST;PFV;CAUS;POL;FOREG	1
 閉まる	閉まらしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	0
@@ -8384,6 +8472,7 @@ lemma	inflected	label	hits
 閉める	閉めないでしょう	V;PRS;IPFV;PROSP;POL;NEG	65900
 閉める	閉めた	V;PST;PFV	5890000
 閉める	閉めなかった	V;PST;PFV;NEG	279000
+閉める	閉めなかったです	V;PST;PFV;POL;NEG;COL	5960
 閉める	閉めました	V;PST;PFV;POL;FOREG	603000
 閉める	閉めませんでした	V;PST;PFV;POL;FOREG;NEG	91100
 閉める	閉めただろう	V;PST;PFV;PROSP	733
@@ -8501,6 +8590,7 @@ lemma	inflected	label	hits
 締める	締めないでしょう	V;PRS;IPFV;PROSP;POL;NEG	34800
 締める	締めた	V;PST;PFV	3420000
 締める	締めなかった	V;PST;PFV;NEG	10900
+締める	締めなかったです	V;PST;PFV;POL;NEG;COL	8
 締める	締めました	V;PST;PFV;POL;FOREG	1200000
 締める	締めませんでした	V;PST;PFV;POL;FOREG;NEG	49400
 締める	締めただろう	V;PST;PFV;PROSP	325
@@ -8618,6 +8708,7 @@ lemma	inflected	label	hits
 知る	知らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	29400000
 知る	知った	V;PST;PFV	83400000
 知る	知らなかった	V;PST;PFV;NEG	40400000
+知る	知らなかったです	V;PST;PFV;POL;NEG;COL	18600000
 知る	知りました	V;PST;PFV;POL;FOREG	23300000
 知る	知りませんでした	V;PST;PFV;POL;FOREG;NEG	22800000
 知る	知っただろう	V;PST;PFV;PROSP	20200
@@ -8743,6 +8834,7 @@ lemma	inflected	label	hits
 吸う	吸わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	200000
 吸う	吸った	V;PST;PFV	9650000
 吸う	吸わなかった	V;PST;PFV;NEG	503000
+吸う	吸わなかったです	V;PST;PFV;POL;NEG;COL	364000
 吸う	吸いました	V;PST;PFV;POL;FOREG	545000
 吸う	吸いませんでした	V;PST;PFV;POL;FOREG;NEG	562000
 吸う	吸っただろう	V;PST;PFV;PROSP	1420
@@ -8810,6 +8902,7 @@ lemma	inflected	label	hits
 吸う	吸わせました	V;PST;PFV;CAUS;POL;FOREG	295000
 吸う	吸わせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	1720
 吸う	吸わす	V;PRS;IPFV;CAUS	101000
+吸う	吸わさない	V;PRS;IPFV;CAUS;NEG	1280
 吸う	吸わします	V;PRS;IPFV;CAUS;POL;FOREG	123000
 吸う	吸わしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	7
 吸う	吸わした	V;PST;PFV;CAUS	7160
@@ -8867,6 +8960,7 @@ lemma	inflected	label	hits
 住む	住まないでしょう	V;PRS;IPFV;PROSP;POL;NEG	55100
 住む	住んだ	V;PST;PFV	16300000
 住む	住まなかった	V;PST;PFV;NEG	67200
+住む	住まなかったです	V;PST;PFV;POL;NEG;COL	2110
 住む	住みました	V;PST;PFV;POL;FOREG	489000
 住む	住みませんでした	V;PST;PFV;POL;FOREG;NEG	26700
 住む	住んだだろう	V;PST;PFV;PROSP	7180
@@ -8938,6 +9032,7 @@ lemma	inflected	label	hits
 住む	住まします	V;PRS;IPFV;CAUS;POL;FOREG	337
 住む	住ましません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	5
 住む	住ました	V;PST;PFV;CAUS	4990
+住む	住まさなかった	V;PST;PFV;CAUS;NEG	1
 住む	住ましました	V;PST;PFV;CAUS;POL;FOREG	4
 住む	住ましませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	1
 住む	住ませられる	V;PRS;IPFV;CAUS;PASS	2900
@@ -8991,6 +9086,7 @@ lemma	inflected	label	hits
 する	しないでしょう	V;PRS;IPFV;PROSP;POL;NEG	43900000
 する	した	V;PST;PFV	2920000000
 する	しなかった	V;PST;PFV;NEG	91800000
+する	しなかったです	V;PST;PFV;POL;NEG;COL	29100000
 する	しました	V;PST;PFV;POL;FOREG	895000000
 する	しませんでした	V;PST;PFV;POL;FOREG;NEG	20700000
 する	しただろう	V;PST;PFV;PROSP	2160000
@@ -9092,6 +9188,7 @@ lemma	inflected	label	hits
 する	なさらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	238000
 する	なさった	V;FORM;ELEV;PST;PFV	6440000
 する	なさらなかった	V;FORM;ELEV;PST;PFV;NEG	239000
+する	なさらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	5670
 する	なさりました	V;FORM;ELEV;PST;PFV;POL;FOREG	14400
 する	なさりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	23900
 する	なさっただろう	V;FORM;ELEV;PST;PFV;PROSP	7740
@@ -9155,6 +9252,7 @@ lemma	inflected	label	hits
 する	なさらさない	V;FORM;ELEV;PRS;IPFV;CAUS;NEG	329
 する	なさらします	V;FORM;ELEV;PRS;IPFV;CAUS;POL;FOREG	1
 する	なさらしません	V;FORM;ELEV;PRS;IPFV;CAUS;POL;FOREG;NEG	3
+する	なさらした	V;FORM;ELEV;PST;PFV;CAUS	122
 する	なさらさなかった	V;FORM;ELEV;PST;PFV;CAUS;NEG	2
 する	なさらしました	V;FORM;ELEV;PST;PFV;CAUS;POL;FOREG	1
 する	なさらしませんでした	V;FORM;ELEV;PST;PFV;CAUS;POL;FOREG;NEG	0
@@ -9169,6 +9267,7 @@ lemma	inflected	label	hits
 する	なさらされる	V;FORM;ELEV;PRS;IPFV;CAUS;PASS	534
 する	なさらされない	V;FORM;ELEV;PRS;IPFV;CAUS;PASS;NEG	5
 する	なさらされます	V;FORM;ELEV;PRS;IPFV;CAUS;PASS;POL;FOREG	9
+する	なさらされません	V;FORM;ELEV;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	2
 する	なさらされた	V;FORM;ELEV;PST;PFV;CAUS;PASS	676
 する	なさらされなかった	V;FORM;ELEV;PST;PFV;CAUS;PASS;NEG	4
 する	なさらされました	V;FORM;ELEV;PST;PFV;CAUS;PASS;POL;FOREG	4
@@ -9192,6 +9291,7 @@ lemma	inflected	label	hits
 する	いたさないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	7
 する	いたした	V;FORM;HUMB;PST;PFV	765000
 する	いたさなかった	V;FORM;HUMB;PST;PFV;NEG	4100
+する	いたさなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	0
 する	いたしました	V;FORM;HUMB;PST;PFV;POL;FOREG	199000000
 する	いたしませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	4670000
 する	いたしただろう	V;FORM;HUMB;PST;PFV;PROSP	6
@@ -9283,6 +9383,7 @@ lemma	inflected	label	hits
 座る	座らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	54700
 座る	座った	V;PST;PFV	42200000
 座る	座らなかった	V;PST;PFV;NEG	910000
+座る	座らなかったです	V;PST;PFV;POL;NEG;COL	44200
 座る	座りました	V;PST;PFV;POL;FOREG	1040000
 座る	座りませんでした	V;PST;PFV;POL;FOREG;NEG	300000
 座る	座っただろう	V;PST;PFV;PROSP	1110
@@ -9371,6 +9472,7 @@ lemma	inflected	label	hits
 座る	座らされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	6
 座る	座らされた	V;PST;PFV;CAUS;PASS	278000
 座る	座らされなかった	V;PST;PFV;CAUS;PASS;NEG	10
+座る	座らされました	V;PST;PFV;CAUS;PASS;POL;FOREG	134000
 座る	座らされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	1
 座る	お座りになる	V;FORM;ELEV;PRS;IPFV	74300
 座る	お座りにならない	V;FORM;ELEV;PRS;IPFV;NEG	13300
@@ -9407,6 +9509,7 @@ lemma	inflected	label	hits
 出す	出さないでしょう	V;PRS;IPFV;PROSP;POL;NEG	5980000
 出す	出した	V;PST;PFV	77900000
 出す	出さなかった	V;PST;PFV;NEG	1600000
+出す	出さなかったです	V;PST;PFV;POL;NEG;COL	236000
 出す	出しました	V;PST;PFV;POL;FOREG	20200000
 出す	出しませんでした	V;PST;PFV;POL;FOREG;NEG	243000
 出す	出しただろう	V;PST;PFV;PROSP	30300
@@ -9473,10 +9576,12 @@ lemma	inflected	label	hits
 出す	出させなかった	V;PST;PFV;CAUS;NEG	78700
 出す	出させました	V;PST;PFV;CAUS;POL;FOREG	366000
 出す	出させませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	77900
+出す	出さす	V;PRS;IPFV;CAUS	76400
 出す	出ささない	V;PRS;IPFV;CAUS;NEG	945
 出す	出さします	V;PRS;IPFV;CAUS;POL;FOREG	3460
 出す	出さしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	1470
 出す	出さした	V;PST;PFV;CAUS	21600
+出す	出ささなかった	V;PST;PFV;CAUS;NEG	133
 出す	出さしました	V;PST;PFV;CAUS;POL;FOREG	10400
 出す	出さしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	6
 出す	出させられる	V;PRS;IPFV;CAUS;PASS	255000
@@ -9494,6 +9599,7 @@ lemma	inflected	label	hits
 出す	出さされた	V;PST;PFV;CAUS;PASS	15500
 出す	出さされなかった	V;PST;PFV;CAUS;PASS;NEG	6
 出す	出さされました	V;PST;PFV;CAUS;PASS;POL;FOREG	10400
+出す	出さされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	2
 出す	お出しになる	V;FORM;ELEV;PRS;IPFV	147000
 出す	お出しにならない	V;FORM;ELEV;PRS;IPFV;NEG	53800
 出す	お出しになります	V;FORM;ELEV;PRS;IPFV;POL;FOREG	80200
@@ -9529,6 +9635,7 @@ lemma	inflected	label	hits
 立つ	立たないでしょう	V;PRS;IPFV;PROSP;POL;NEG	664000
 立つ	立った	V;PST;PFV	40200000
 立つ	立たなかった	V;PST;PFV;NEG	575000
+立つ	立たなかったです	V;PST;PFV;POL;NEG;COL	767000
 立つ	立ちました	V;PST;PFV;POL;FOREG	28800000
 立つ	立ちませんでした	V;PST;PFV;POL;FOREG;NEG	2550000
 立つ	立っただろう	V;PST;PFV;PROSP	9300
@@ -9654,6 +9761,7 @@ lemma	inflected	label	hits
 頼む	頼まないでしょう	V;PRS;IPFV;PROSP;POL;NEG	741000
 頼む	頼んだ	V;PST;PFV	51000000
 頼む	頼まなかった	V;PST;PFV;NEG	519000
+頼む	頼まなかったです	V;PST;PFV;POL;NEG;COL	1960000
 頼む	頼みました	V;PST;PFV;POL;FOREG	22400000
 頼む	頼みませんでした	V;PST;PFV;POL;FOREG;NEG	2420000
 頼む	頼んだだろう	V;PST;PFV;PROSP	264000
@@ -9779,6 +9887,7 @@ lemma	inflected	label	hits
 食べる	食べないでしょう	V;PRS;IPFV;PROSP;POL;NEG	3010000
 食べる	食べた	V;PST;PFV	71300000
 食べる	食べなかった	V;PST;PFV;NEG	1970000
+食べる	食べなかったです	V;PST;PFV;POL;NEG;COL	3170000
 食べる	食べました	V;PST;PFV;POL;FOREG	26700000
 食べる	食べませんでした	V;PST;PFV;POL;FOREG;NEG	1770000
 食べる	食べただろう	V;PST;PFV;PROSP	36700
@@ -9896,6 +10005,7 @@ lemma	inflected	label	hits
 食べる	あがらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	133000
 食べる	あがった	V;FORM;ELEV;PST;PFV	13200000
 食べる	あがらなかった	V;FORM;ELEV;PST;PFV;NEG	556000
+食べる	あがらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	380000
 食べる	あがりました	V;FORM;ELEV;PST;PFV;POL;FOREG	4730000
 食べる	あがりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	185000
 食べる	あがっただろう	V;FORM;ELEV;PST;PFV;PROSP	9850
@@ -9998,6 +10108,7 @@ lemma	inflected	label	hits
 食べる	召し上がらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	7280
 食べる	召し上がった	V;FORM;ELEV;PST;PFV	296000
 食べる	召し上がらなかった	V;FORM;ELEV;PST;PFV;NEG	3530
+食べる	召し上がらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	466
 食べる	召し上がりました	V;FORM;ELEV;PST;PFV;POL;FOREG	94000
 食べる	召し上がりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	28400
 食べる	召し上がっただろう	V;FORM;ELEV;PST;PFV;PROSP	54
@@ -10100,6 +10211,7 @@ lemma	inflected	label	hits
 食べる	いただかないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	95900
 食べる	いただいた	V;FORM;HUMB;PST;PFV	270000000
 食べる	いただかなかった	V;FORM;HUMB;PST;PFV;NEG	199000
+食べる	いただかなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	30500
 食べる	いただきました	V;FORM;HUMB;PST;PFV;POL;FOREG	141000000
 食べる	いただきませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	1110000
 食べる	いただいただろう	V;FORM;HUMB;PST;PFV;PROSP	2070
@@ -10191,6 +10303,7 @@ lemma	inflected	label	hits
 違う	違わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	464000
 違う	違った	V;PST;PFV	67200000
 違う	違わなかった	V;PST;PFV;NEG	181000
+違う	違わなかったです	V;PST;PFV;POL;NEG;COL	95100
 違う	違いました	V;PST;PFV;POL;FOREG	12400000
 違う	違いませんでした	V;PST;PFV;POL;FOREG;NEG	792000
 違う	違っただろう	V;PST;PFV;PROSP	315000
@@ -10316,6 +10429,7 @@ lemma	inflected	label	hits
 使う	使わないでしょう	V;PRS;IPFV;PROSP;POL;NEG	12600000
 使う	使った	V;PST;PFV	299000000
 使う	使わなかった	V;PST;PFV;NEG	23900000
+使う	使わなかったです	V;PST;PFV;POL;NEG;COL	1960000
 使う	使いました	V;PST;PFV;POL;FOREG	21600000
 使う	使いませんでした	V;PST;PFV;POL;FOREG;NEG	16600000
 使う	使っただろう	V;PST;PFV;PROSP	145000
@@ -10383,6 +10497,7 @@ lemma	inflected	label	hits
 使う	使わせました	V;PST;PFV;CAUS;POL;FOREG	143000
 使う	使わせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	115000
 使う	使わす	V;PRS;IPFV;CAUS	604000
+使う	使わさない	V;PRS;IPFV;CAUS;NEG	11600
 使う	使わします	V;PRS;IPFV;CAUS;POL;FOREG	409000
 使う	使わしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	883
 使う	使わした	V;PST;PFV;CAUS	43400
@@ -10440,6 +10555,7 @@ lemma	inflected	label	hits
 疲れる	疲れないでしょう	V;PRS;IPFV;PROSP;POL;NEG	322000
 疲れる	疲れた	V;PST;PFV	40100000
 疲れる	疲れなかった	V;PST;PFV;NEG	3230000
+疲れる	疲れなかったです	V;PST;PFV;POL;NEG;COL	472000
 疲れる	疲れました	V;PST;PFV;POL;FOREG	11700000
 疲れる	疲れませんでした	V;PST;PFV;POL;FOREG;NEG	1560000
 疲れる	疲れただろう	V;PST;PFV;PROSP	138000
@@ -10507,6 +10623,7 @@ lemma	inflected	label	hits
 疲れる	疲れさせました	V;PST;PFV;CAUS;POL;FOREG	66200
 疲れる	疲れさせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	12800
 疲れる	疲れさす	V;PRS;IPFV;CAUS	69200
+疲れる	疲れささない	V;PRS;IPFV;CAUS;NEG	285
 疲れる	疲れさします	V;PRS;IPFV;CAUS;POL;FOREG	3
 疲れる	疲れさしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	4
 疲れる	疲れさした	V;PST;PFV;CAUS	2340
@@ -10556,6 +10673,7 @@ lemma	inflected	label	hits
 着く	着かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	55300
 着く	着いた	V;PST;PFV	26200000
 着く	着かなかった	V;PST;PFV;NEG	1200000
+着く	着かなかったです	V;PST;PFV;POL;NEG;COL	973000
 着く	着きました	V;PST;PFV;POL;FOREG	7310000
 着く	着きませんでした	V;PST;PFV;POL;FOREG;NEG	1190000
 着く	着いただろう	V;PST;PFV;PROSP	101000
@@ -10626,6 +10744,7 @@ lemma	inflected	label	hits
 着く	着かさない	V;PRS;IPFV;CAUS;NEG	130
 着く	着かします	V;PRS;IPFV;CAUS;POL;FOREG	6
 着く	着かしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	5
+着く	着かした	V;PST;PFV;CAUS	6720
 着く	着かさなかった	V;PST;PFV;CAUS;NEG	1
 着く	着かしました	V;PST;PFV;CAUS;POL;FOREG	8
 着く	着かしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	0
@@ -10680,6 +10799,7 @@ lemma	inflected	label	hits
 作る	作らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	1050000
 作る	作った	V;PST;PFV	193000000
 作る	作らなかった	V;PST;PFV;NEG	1580000
+作る	作らなかったです	V;PST;PFV;POL;NEG;COL	106000
 作る	作りました	V;PST;PFV;POL;FOREG	44100000
 作る	作りませんでした	V;PST;PFV;POL;FOREG;NEG	1790000
 作る	作っただろう	V;PST;PFV;PROSP	60700
@@ -10805,6 +10925,7 @@ lemma	inflected	label	hits
 点ける	点けないでしょう	V;PRS;IPFV;PROSP;POL;NEG	14100
 点ける	点けた	V;PST;PFV	2110000
 点ける	点けなかった	V;PST;PFV;NEG	66800
+点ける	点けなかったです	V;PST;PFV;POL;NEG;COL	7760
 点ける	点けました	V;PST;PFV;POL;FOREG	82900
 点ける	点けませんでした	V;PST;PFV;POL;FOREG;NEG	50300
 点ける	点けただろう	V;PST;PFV;PROSP	1150
@@ -10876,6 +10997,7 @@ lemma	inflected	label	hits
 点ける	点けさします	V;PRS;IPFV;CAUS;POL;FOREG	2
 点ける	点けさしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	2
 点ける	点けさした	V;PST;PFV;CAUS	10
+点ける	点けささなかった	V;PST;PFV;CAUS;NEG	0
 点ける	点けさしました	V;PST;PFV;CAUS;POL;FOREG	0
 点ける	点けさしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	0
 点ける	点けさせられる	V;PRS;IPFV;CAUS;PASS	9
@@ -10921,6 +11043,7 @@ lemma	inflected	label	hits
 勤める	勤めないでしょう	V;PRS;IPFV;PROSP;POL;NEG	3730
 勤める	勤めた	V;PST;PFV	4790000
 勤める	勤めなかった	V;PST;PFV;NEG	7010
+勤める	勤めなかったです	V;PST;PFV;POL;NEG;COL	6
 勤める	勤めました	V;PST;PFV;POL;FOREG	1670000
 勤める	勤めませんでした	V;PST;PFV;POL;FOREG;NEG	5110
 勤める	勤めただろう	V;PST;PFV;PROSP	103
@@ -11038,6 +11161,7 @@ lemma	inflected	label	hits
 出かける	出かけないでしょう	V;PRS;IPFV;PROSP;POL;NEG	42900
 出かける	出かけた	V;PST;PFV	31800000
 出かける	出かけなかった	V;PST;PFV;NEG	239000
+出かける	出かけなかったです	V;PST;PFV;POL;NEG;COL	5550
 出かける	出かけました	V;PST;PFV;POL;FOREG	5610000
 出かける	出かけませんでした	V;PST;PFV;POL;FOREG;NEG	278000
 出かける	出かけただろう	V;PST;PFV;PROSP	1050
@@ -11155,6 +11279,7 @@ lemma	inflected	label	hits
 出来る	出来ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	29400000
 出来る	出来た	V;PST;PFV	45000000
 出来る	出来なかった	V;PST;PFV;NEG	29100000
+出来る	出来なかったです	V;PST;PFV;POL;NEG;COL	19100000
 出来る	出来ました	V;PST;PFV;POL;FOREG	51900000
 出来る	出来ませんでした	V;PST;PFV;POL;FOREG;NEG	30000000
 出来る	出来ただろう	V;PST;PFV;PROSP	102000
@@ -11228,6 +11353,7 @@ lemma	inflected	label	hits
 出来る	出来さした	V;PST;PFV;CAUS	9
 出来る	出来ささなかった	V;PST;PFV;CAUS;NEG	2
 出来る	出来さしました	V;PST;PFV;CAUS;POL;FOREG	2
+出来る	出来さしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2
 出来る	出来させられる	V;PRS;IPFV;CAUS;PASS	258
 出来る	出来させられない	V;PRS;IPFV;CAUS;PASS;NEG	292
 出来る	出来させられます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	99
@@ -11271,6 +11397,7 @@ lemma	inflected	label	hits
 出る	出ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	25800000
 出る	出た	V;PST;PFV	259000000
 出る	出なかった	V;PST;PFV;NEG	17500000
+出る	出なかったです	V;PST;PFV;POL;NEG;COL	6060000
 出る	出ました	V;PST;PFV;POL;FOREG	34400000
 出る	出ませんでした	V;PST;PFV;POL;FOREG;NEG	27700000
 出る	出ただろう	V;PST;PFV;PROSP	176000
@@ -11337,10 +11464,12 @@ lemma	inflected	label	hits
 出る	出させなかった	V;PST;PFV;CAUS;NEG	78700
 出る	出させました	V;PST;PFV;CAUS;POL;FOREG	366000
 出る	出させませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	77900
+出る	出さす	V;PRS;IPFV;CAUS	76400
 出る	出ささない	V;PRS;IPFV;CAUS;NEG	945
 出る	出さします	V;PRS;IPFV;CAUS;POL;FOREG	3460
 出る	出さしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	1470
 出る	出さした	V;PST;PFV;CAUS	21600
+出る	出ささなかった	V;PST;PFV;CAUS;NEG	133
 出る	出さしました	V;PST;PFV;CAUS;POL;FOREG	10400
 出る	出さしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	6
 出る	出させられる	V;PRS;IPFV;CAUS;PASS	255000
@@ -11386,6 +11515,7 @@ lemma	inflected	label	hits
 飛ぶ	飛ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG	176000
 飛ぶ	飛んだ	V;PST;PFV	12700000
 飛ぶ	飛ばなかった	V;PST;PFV;NEG	1160000
+飛ぶ	飛ばなかったです	V;PST;PFV;POL;NEG;COL	347000
 飛ぶ	飛びました	V;PST;PFV;POL;FOREG	1280000
 飛ぶ	飛びませんでした	V;PST;PFV;POL;FOREG;NEG	1620000
 飛ぶ	飛んだだろう	V;PST;PFV;PROSP	145000
@@ -11511,6 +11641,7 @@ lemma	inflected	label	hits
 止まる	止まらないでしょう	V;PRS;IPFV;PROSP;POL;NEG	2640000
 止まる	止まった	V;PST;PFV	16800000
 止まる	止まらなかった	V;PST;PFV;NEG	6620000
+止まる	止まらなかったです	V;PST;PFV;POL;NEG;COL	2470000
 止まる	止まりました	V;PST;PFV;POL;FOREG	4220000
 止まる	止まりませんでした	V;PST;PFV;POL;FOREG;NEG	19800000
 止まる	止まっただろう	V;PST;PFV;PROSP	3200
@@ -11636,6 +11767,7 @@ lemma	inflected	label	hits
 取る	取らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	1210000
 取る	取った	V;PST;PFV	37000000
 取る	取らなかった	V;PST;PFV;NEG	2780000
+取る	取らなかったです	V;PST;PFV;POL;NEG;COL	1140000
 取る	取りました	V;PST;PFV;POL;FOREG	15600000
 取る	取りませんでした	V;PST;PFV;POL;FOREG;NEG	4920000
 取る	取っただろう	V;PST;PFV;PROSP	20200
@@ -11725,6 +11857,7 @@ lemma	inflected	label	hits
 取る	取らされた	V;PST;PFV;CAUS;PASS	639000
 取る	取らされなかった	V;PST;PFV;CAUS;PASS;NEG	14700
 取る	取らされました	V;PST;PFV;CAUS;PASS;POL;FOREG	296000
+取る	取らされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	8160
 取る	お取りになる	V;FORM;ELEV;PRS;IPFV	163000
 取る	お取りにならない	V;FORM;ELEV;PRS;IPFV;NEG	24300
 取る	お取りになります	V;FORM;ELEV;PRS;IPFV;POL;FOREG	112000
@@ -11760,6 +11893,7 @@ lemma	inflected	label	hits
 撮る	撮らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	95200
 撮る	撮った	V;PST;PFV	30200000
 撮る	撮らなかった	V;PST;PFV;NEG	206000
+撮る	撮らなかったです	V;PST;PFV;POL;NEG;COL	212000
 撮る	撮りました	V;PST;PFV;POL;FOREG	10400000
 撮る	撮りませんでした	V;PST;PFV;POL;FOREG;NEG	706000
 撮る	撮っただろう	V;PST;PFV;PROSP	16400
@@ -11830,6 +11964,7 @@ lemma	inflected	label	hits
 撮る	撮らさない	V;PRS;IPFV;CAUS;NEG	836
 撮る	撮らします	V;PRS;IPFV;CAUS;POL;FOREG	2
 撮る	撮らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	5
+撮る	撮らした	V;PST;PFV;CAUS	2670
 撮る	撮らさなかった	V;PST;PFV;CAUS;NEG	57
 撮る	撮らしました	V;PST;PFV;CAUS;POL;FOREG	216
 撮る	撮らしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	0
@@ -11884,6 +12019,7 @@ lemma	inflected	label	hits
 鳴く	鳴かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	26700
 鳴く	鳴いた	V;PST;PFV	966000
 鳴く	鳴かなかった	V;PST;PFV;NEG	24200
+鳴く	鳴かなかったです	V;PST;PFV;POL;NEG;COL	6310
 鳴く	鳴きました	V;PST;PFV;POL;FOREG	333000
 鳴く	鳴きませんでした	V;PST;PFV;POL;FOREG;NEG	232000
 鳴く	鳴いただろう	V;PST;PFV;PROSP	301
@@ -11957,6 +12093,7 @@ lemma	inflected	label	hits
 鳴く	鳴かした	V;PST;PFV;CAUS	2050
 鳴く	鳴かさなかった	V;PST;PFV;CAUS;NEG	5
 鳴く	鳴かしました	V;PST;PFV;CAUS;POL;FOREG	54
+鳴く	鳴かしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	1
 鳴く	鳴かせられる	V;PRS;IPFV;CAUS;PASS	2490
 鳴く	鳴かせられない	V;PRS;IPFV;CAUS;PASS;NEG	1160
 鳴く	鳴かせられます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	1070
@@ -12008,6 +12145,7 @@ lemma	inflected	label	hits
 並ぶ	並ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG	59500
 並ぶ	並んだ	V;PST;PFV	31200000
 並ぶ	並ばなかった	V;PST;PFV;NEG	1190000
+並ぶ	並ばなかったです	V;PST;PFV;POL;NEG;COL	173000
 並ぶ	並びました	V;PST;PFV;POL;FOREG	6360000
 並ぶ	並びませんでした	V;PST;PFV;POL;FOREG;NEG	239000
 並ぶ	並んだだろう	V;PST;PFV;PROSP	20900
@@ -12133,6 +12271,7 @@ lemma	inflected	label	hits
 並べる	並べないでしょう	V;PRS;IPFV;PROSP;POL;NEG	19100
 並べる	並べた	V;PST;PFV	9620000
 並べる	並べなかった	V;PST;PFV;NEG	237000
+並べる	並べなかったです	V;PST;PFV;POL;NEG;COL	6810
 並べる	並べました	V;PST;PFV;POL;FOREG	5350000
 並べる	並べませんでした	V;PST;PFV;POL;FOREG;NEG	4610
 並べる	並べただろう	V;PST;PFV;PROSP	480
@@ -12205,6 +12344,7 @@ lemma	inflected	label	hits
 並べる	並べさしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	2
 並べる	並べさした	V;PST;PFV;CAUS	9
 並べる	並べささなかった	V;PST;PFV;CAUS;NEG	1
+並べる	並べさしました	V;PST;PFV;CAUS;POL;FOREG	3
 並べる	並べさしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	1
 並べる	並べさせられる	V;PRS;IPFV;CAUS;PASS	9030
 並べる	並べさせられない	V;PRS;IPFV;CAUS;PASS;NEG	1700
@@ -12249,6 +12389,7 @@ lemma	inflected	label	hits
 なる	ならないでしょう	V;PRS;IPFV;PROSP;POL;NEG	8310000
 なる	なった	V;PST;PFV	784000000
 なる	ならなかった	V;PST;PFV;NEG	43800000
+なる	ならなかったです	V;PST;PFV;POL;NEG;COL	57400000
 なる	なりました	V;PST;PFV;POL;FOREG	445000000
 なる	なりませんでした	V;PST;PFV;POL;FOREG;NEG	31700000
 なる	なっただろう	V;PST;PFV;PROSP	309000
@@ -12374,6 +12515,7 @@ lemma	inflected	label	hits
 脱ぐ	脱がないでしょう	V;PRS;IPFV;PROSP;POL;NEG	65700
 脱ぐ	脱いだ	V;PST;PFV	12100000
 脱ぐ	脱がなかった	V;PST;PFV;NEG	429000
+脱ぐ	脱がなかったです	V;PST;PFV;POL;NEG;COL	23100
 脱ぐ	脱ぎました	V;PST;PFV;POL;FOREG	2880000
 脱ぐ	脱ぎませんでした	V;PST;PFV;POL;FOREG;NEG	421000
 脱ぐ	脱いだだろう	V;PST;PFV;PROSP	18100
@@ -12499,6 +12641,7 @@ lemma	inflected	label	hits
 寝る	寝ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	264000
 寝る	寝た	V;PST;PFV	21700000
 寝る	寝なかった	V;PST;PFV;NEG	357000
+寝る	寝なかったです	V;PST;PFV;POL;NEG;COL	773000
 寝る	寝ました	V;PST;PFV;POL;FOREG	2110000
 寝る	寝ませんでした	V;PST;PFV;POL;FOREG;NEG	189000
 寝る	寝ただろう	V;PST;PFV;PROSP	8270
@@ -12570,6 +12713,7 @@ lemma	inflected	label	hits
 寝る	寝さします	V;PRS;IPFV;CAUS;POL;FOREG	347
 寝る	寝さしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	5
 寝る	寝さした	V;PST;PFV;CAUS	1070
+寝る	寝ささなかった	V;PST;PFV;CAUS;NEG	5
 寝る	寝さしました	V;PST;PFV;CAUS;POL;FOREG	1440
 寝る	寝さしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2
 寝る	寝させられる	V;PRS;IPFV;CAUS;PASS	35500
@@ -12615,6 +12759,7 @@ lemma	inflected	label	hits
 登る	登らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	247000
 登る	登った	V;PST;PFV	12000000
 登る	登らなかった	V;PST;PFV;NEG	251000
+登る	登らなかったです	V;PST;PFV;POL;NEG;COL	8320
 登る	登りました	V;PST;PFV;POL;FOREG	1660000
 登る	登りませんでした	V;PST;PFV;POL;FOREG;NEG	287000
 登る	登っただろう	V;PST;PFV;PROSP	3160
@@ -12681,6 +12826,7 @@ lemma	inflected	label	hits
 登る	登らせなかった	V;PST;PFV;CAUS;NEG	1210
 登る	登らせました	V;PST;PFV;CAUS;POL;FOREG	11000
 登る	登らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	401
+登る	登らす	V;PRS;IPFV;CAUS	12600
 登る	登らさない	V;PRS;IPFV;CAUS;NEG	206
 登る	登らします	V;PRS;IPFV;CAUS;POL;FOREG	6
 登る	登らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	4
@@ -12739,6 +12885,7 @@ lemma	inflected	label	hits
 飲む	飲まないでしょう	V;PRS;IPFV;PROSP;POL;NEG	598000
 飲む	飲んだ	V;PST;PFV	47300000
 飲む	飲まなかった	V;PST;PFV;NEG	3260000
+飲む	飲まなかったです	V;PST;PFV;POL;NEG;COL	211000
 飲む	飲みました	V;PST;PFV;POL;FOREG	7970000
 飲む	飲みませんでした	V;PST;PFV;POL;FOREG;NEG	2410000
 飲む	飲んだだろう	V;PST;PFV;PROSP	240000
@@ -12864,6 +13011,7 @@ lemma	inflected	label	hits
 飲む	あがらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	133000
 飲む	あがった	V;FORM;ELEV;PST;PFV	13200000
 飲む	あがらなかった	V;FORM;ELEV;PST;PFV;NEG	556000
+飲む	あがらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	380000
 飲む	あがりました	V;FORM;ELEV;PST;PFV;POL;FOREG	4730000
 飲む	あがりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	185000
 飲む	あがっただろう	V;FORM;ELEV;PST;PFV;PROSP	9850
@@ -12966,6 +13114,7 @@ lemma	inflected	label	hits
 飲む	召し上がらないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	7280
 飲む	召し上がった	V;FORM;ELEV;PST;PFV	296000
 飲む	召し上がらなかった	V;FORM;ELEV;PST;PFV;NEG	3530
+飲む	召し上がらなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	466
 飲む	召し上がりました	V;FORM;ELEV;PST;PFV;POL;FOREG	94000
 飲む	召し上がりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	28400
 飲む	召し上がっただろう	V;FORM;ELEV;PST;PFV;PROSP	54
@@ -13068,6 +13217,7 @@ lemma	inflected	label	hits
 飲む	いただかないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	95900
 飲む	いただいた	V;FORM;HUMB;PST;PFV	270000000
 飲む	いただかなかった	V;FORM;HUMB;PST;PFV;NEG	199000
+飲む	いただかなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	30500
 飲む	いただきました	V;FORM;HUMB;PST;PFV;POL;FOREG	141000000
 飲む	いただきませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	1110000
 飲む	いただいただろう	V;FORM;HUMB;PST;PFV;PROSP	2070
@@ -13159,6 +13309,7 @@ lemma	inflected	label	hits
 乗る	乗らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	819000
 乗る	乗った	V;PST;PFV	32300000
 乗る	乗らなかった	V;PST;PFV;NEG	3480000
+乗る	乗らなかったです	V;PST;PFV;POL;NEG;COL	2290000
 乗る	乗りました	V;PST;PFV;POL;FOREG	6140000
 乗る	乗りませんでした	V;PST;PFV;POL;FOREG;NEG	2330000
 乗る	乗っただろう	V;PST;PFV;PROSP	7980
@@ -13226,6 +13377,7 @@ lemma	inflected	label	hits
 乗る	乗らせました	V;PST;PFV;CAUS;POL;FOREG	60000
 乗る	乗らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	1090
 乗る	乗らす	V;PRS;IPFV;CAUS	19200
+乗る	乗らさない	V;PRS;IPFV;CAUS;NEG	640
 乗る	乗らします	V;PRS;IPFV;CAUS;POL;FOREG	7
 乗る	乗らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	111
 乗る	乗らした	V;PST;PFV;CAUS	1230
@@ -13283,6 +13435,7 @@ lemma	inflected	label	hits
 入る	入らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	11100000
 入る	入った	V;PST;PFV	196000000
 入る	入らなかった	V;PST;PFV;NEG	6810000
+入る	入らなかったです	V;PST;PFV;POL;NEG;COL	4500000
 入る	入りました	V;PST;PFV;POL;FOREG	46500000
 入る	入りませんでした	V;PST;PFV;POL;FOREG;NEG	9890000
 入る	入っただろう	V;PST;PFV;PROSP	273000
@@ -13349,6 +13502,7 @@ lemma	inflected	label	hits
 入る	入らせなかった	V;PST;PFV;CAUS;NEG	33500
 入る	入らせました	V;PST;PFV;CAUS;POL;FOREG	30800
 入る	入らせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2650
+入る	入らす	V;PRS;IPFV;CAUS	33500
 入る	入らさない	V;PRS;IPFV;CAUS;NEG	2540
 入る	入らします	V;PRS;IPFV;CAUS;POL;FOREG	8
 入る	入らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	71
@@ -13407,6 +13561,7 @@ lemma	inflected	label	hits
 履く	履かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	873000
 履く	履いた	V;PST;PFV	19600000
 履く	履かなかった	V;PST;PFV;NEG	3750000
+履く	履かなかったです	V;PST;PFV;POL;NEG;COL	2240000
 履く	履きました	V;PST;PFV;POL;FOREG	4690000
 履く	履きませんでした	V;PST;PFV;POL;FOREG;NEG	3620000
 履く	履いただろう	V;PST;PFV;PROSP	1760
@@ -13532,6 +13687,7 @@ lemma	inflected	label	hits
 始まる	始まらないでしょう	V;PRS;IPFV;PROSP;POL;NEG	2460000
 始まる	始まった	V;PST;PFV	72200000
 始まる	始まらなかった	V;PST;PFV;NEG	786000
+始まる	始まらなかったです	V;PST;PFV;POL;NEG;COL	10200
 始まる	始まりました	V;PST;PFV;POL;FOREG	33800000
 始まる	始まりませんでした	V;PST;PFV;POL;FOREG;NEG	169000
 始まる	始まっただろう	V;PST;PFV;PROSP	7660
@@ -13600,6 +13756,7 @@ lemma	inflected	label	hits
 始まる	始まらせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	4
 始まる	始まらす	V;PRS;IPFV;CAUS	7540
 始まる	始まらさない	V;PRS;IPFV;CAUS;NEG	7
+始まる	始まらします	V;PRS;IPFV;CAUS;POL;FOREG	1
 始まる	始まらしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	3
 始まる	始まらした	V;PST;PFV;CAUS	10
 始まる	始まらさなかった	V;PST;PFV;CAUS;NEG	2
@@ -13656,6 +13813,7 @@ lemma	inflected	label	hits
 走る	走らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	202000
 走る	走った	V;PST;PFV	18900000
 走る	走らなかった	V;PST;PFV;NEG	146000
+走る	走らなかったです	V;PST;PFV;POL;NEG;COL	21500
 走る	走りました	V;PST;PFV;POL;FOREG	5010000
 走る	走りませんでした	V;PST;PFV;POL;FOREG;NEG	613000
 走る	走っただろう	V;PST;PFV;PROSP	18600
@@ -13781,6 +13939,7 @@ lemma	inflected	label	hits
 働く	働かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	424000
 働く	働いた	V;PST;PFV	42100000
 働く	働かなかった	V;PST;PFV;NEG	119000
+働く	働かなかったです	V;PST;PFV;POL;NEG;COL	16000
 働く	働きました	V;PST;PFV;POL;FOREG	814000
 働く	働きませんでした	V;PST;PFV;POL;FOREG;NEG	1420000
 働く	働いただろう	V;PST;PFV;PROSP	5250
@@ -13849,10 +14008,12 @@ lemma	inflected	label	hits
 働く	働かせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	11900
 働く	働かす	V;PRS;IPFV;CAUS	347000
 働く	働かさない	V;PRS;IPFV;CAUS;NEG	17600
+働く	働かします	V;PRS;IPFV;CAUS;POL;FOREG	2040
 働く	働かしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	157
 働く	働かした	V;PST;PFV;CAUS	6650
 働く	働かさなかった	V;PST;PFV;CAUS;NEG	189
 働く	働かしました	V;PST;PFV;CAUS;POL;FOREG	212
+働く	働かしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	7
 働く	働かせられる	V;PRS;IPFV;CAUS;PASS	258000
 働く	働かせられない	V;PRS;IPFV;CAUS;PASS;NEG	104000
 働く	働かせられます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	80700
@@ -13904,6 +14065,7 @@ lemma	inflected	label	hits
 話す	話さないでしょう	V;PRS;IPFV;PROSP;POL;NEG	431000
 話す	話した	V;PST;PFV	34200000
 話す	話さなかった	V;PST;PFV;NEG	494000
+話す	話さなかったです	V;PST;PFV;POL;NEG;COL	116000
 話す	話しました	V;PST;PFV;POL;FOREG	14200000
 話す	話しませんでした	V;PST;PFV;POL;FOREG;NEG	1070000
 話す	話しただろう	V;PST;PFV;PROSP	52600
@@ -13989,9 +14151,11 @@ lemma	inflected	label	hits
 話す	話さされる	V;PRS;IPFV;CAUS;PASS	2530
 話す	話さされない	V;PRS;IPFV;CAUS;PASS;NEG	1
 話す	話さされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	1990
+話す	話さされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	0
 話す	話さされた	V;PST;PFV;CAUS;PASS	293
 話す	話さされなかった	V;PST;PFV;CAUS;PASS;NEG	0
 話す	話さされました	V;PST;PFV;CAUS;PASS;POL;FOREG	7
+話す	話さされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	0
 話す	お話しになる	V;FORM;ELEV;PRS;IPFV	450000
 話す	お話しにならない	V;FORM;ELEV;PRS;IPFV;NEG	134000
 話す	お話しになります	V;FORM;ELEV;PRS;IPFV;POL;FOREG	306000
@@ -14027,6 +14191,7 @@ lemma	inflected	label	hits
 張る	張らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	58100
 張る	張った	V;PST;PFV	23500000
 張る	張らなかった	V;PST;PFV;NEG	219000
+張る	張らなかったです	V;PST;PFV;POL;NEG;COL	11900
 張る	張りました	V;PST;PFV;POL;FOREG	2460000
 張る	張りませんでした	V;PST;PFV;POL;FOREG;NEG	615000
 張る	張っただろう	V;PST;PFV;PROSP	1740
@@ -14099,6 +14264,7 @@ lemma	inflected	label	hits
 張る	張らしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	7
 張る	張らした	V;PST;PFV;CAUS	5870
 張る	張らさなかった	V;PST;PFV;CAUS;NEG	2
+張る	張らしました	V;PST;PFV;CAUS;POL;FOREG	169
 張る	張らしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2
 張る	張らせられる	V;PRS;IPFV;CAUS;PASS	2360
 張る	張らせられない	V;PRS;IPFV;CAUS;PASS;NEG	2300
@@ -14151,6 +14317,7 @@ lemma	inflected	label	hits
 晴れる	晴れないでしょう	V;PRS;IPFV;PROSP;POL;NEG	317000
 晴れる	晴れた	V;PST;PFV	17700000
 晴れる	晴れなかった	V;PST;PFV;NEG	248000
+晴れる	晴れなかったです	V;PST;PFV;POL;NEG;COL	31600
 晴れる	晴れました	V;PST;PFV;POL;FOREG	3320000
 晴れる	晴れませんでした	V;PST;PFV;POL;FOREG;NEG	329000
 晴れる	晴れただろう	V;PST;PFV;PROSP	3340
@@ -14223,6 +14390,7 @@ lemma	inflected	label	hits
 晴れる	晴れさしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	0
 晴れる	晴れさした	V;PST;PFV;CAUS	162
 晴れる	晴れささなかった	V;PST;PFV;CAUS;NEG	1
+晴れる	晴れさしました	V;PST;PFV;CAUS;POL;FOREG	0
 晴れる	晴れさしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	0
 晴れる	晴れさせられる	V;PRS;IPFV;CAUS;PASS	3770
 晴れる	晴れさせられない	V;PRS;IPFV;CAUS;PASS;NEG	8
@@ -14267,6 +14435,7 @@ lemma	inflected	label	hits
 引く	引かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	38600
 引く	引いた	V;PST;PFV	25300000
 引く	引かなかった	V;PST;PFV;NEG	1090000
+引く	引かなかったです	V;PST;PFV;POL;NEG;COL	61300
 引く	引きました	V;PST;PFV;POL;FOREG	5510000
 引く	引きませんでした	V;PST;PFV;POL;FOREG;NEG	412000
 引く	引いただろう	V;PST;PFV;PROSP	17000
@@ -14334,6 +14503,7 @@ lemma	inflected	label	hits
 引く	引かせました	V;PST;PFV;CAUS;POL;FOREG	148000
 引く	引かせませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	333
 引く	引かす	V;PRS;IPFV;CAUS	56000
+引く	引かさない	V;PRS;IPFV;CAUS;NEG	4030
 引く	引かします	V;PRS;IPFV;CAUS;POL;FOREG	9600
 引く	引かしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	75
 引く	引かした	V;PST;PFV;CAUS	1670
@@ -14391,6 +14561,7 @@ lemma	inflected	label	hits
 弾く	弾かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	7010
 弾く	弾いた	V;PST;PFV	3850000
 弾く	弾かなかった	V;PST;PFV;NEG	605000
+弾く	弾かなかったです	V;PST;PFV;POL;NEG;COL	162000
 弾く	弾きました	V;PST;PFV;POL;FOREG	2430000
 弾く	弾きませんでした	V;PST;PFV;POL;FOREG;NEG	304000
 弾く	弾いただろう	V;PST;PFV;PROSP	1020
@@ -14516,6 +14687,7 @@ lemma	inflected	label	hits
 吹く	吹かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	31500
 吹く	吹いた	V;PST;PFV	10300000
 吹く	吹かなかった	V;PST;PFV;NEG	325000
+吹く	吹かなかったです	V;PST;PFV;POL;NEG;COL	12800
 吹く	吹きました	V;PST;PFV;POL;FOREG	519000
 吹く	吹きませんでした	V;PST;PFV;POL;FOREG;NEG	224000
 吹く	吹いただろう	V;PST;PFV;PROSP	4240
@@ -14641,6 +14813,7 @@ lemma	inflected	label	hits
 降る	降らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	618000
 降る	降った	V;PST;PFV	20300000
 降る	降らなかった	V;PST;PFV;NEG	689000
+降る	降らなかったです	V;PST;PFV;POL;NEG;COL	2020000
 降る	降りました	V;PST;PFV;POL;FOREG	3670000
 降る	降りませんでした	V;PST;PFV;POL;FOREG;NEG	364000
 降る	降っただろう	V;PST;PFV;PROSP	4590
@@ -14766,6 +14939,7 @@ lemma	inflected	label	hits
 曲がる	曲がらないでしょう	V;PRS;IPFV;PROSP;POL;NEG	84900
 曲がる	曲がった	V;PST;PFV	7100000
 曲がる	曲がらなかった	V;PST;PFV;NEG	615000
+曲がる	曲がらなかったです	V;PST;PFV;POL;NEG;COL	283000
 曲がる	曲がりました	V;PST;PFV;POL;FOREG	781000
 曲がる	曲がりませんでした	V;PST;PFV;POL;FOREG;NEG	1030000
 曲がる	曲がっただろう	V;PST;PFV;PROSP	488
@@ -14838,6 +15012,7 @@ lemma	inflected	label	hits
 曲がる	曲がらしません	V;PRS;IPFV;CAUS;POL;FOREG;NEG	4
 曲がる	曲がらした	V;PST;PFV;CAUS	69
 曲がる	曲がらさなかった	V;PST;PFV;CAUS;NEG	2
+曲がる	曲がらしました	V;PST;PFV;CAUS;POL;FOREG	2
 曲がる	曲がらしませんでした	V;PST;PFV;CAUS;POL;FOREG;NEG	2
 曲がる	曲がらせられる	V;PRS;IPFV;CAUS;PASS	416
 曲がる	曲がらせられない	V;PRS;IPFV;CAUS;PASS;NEG	129
@@ -14890,6 +15065,7 @@ lemma	inflected	label	hits
 待つ	待たないでしょう	V;PRS;IPFV;PROSP;POL;NEG	125000
 待つ	待った	V;PST;PFV	29300000
 待つ	待たなかった	V;PST;PFV;NEG	545000
+待つ	待たなかったです	V;PST;PFV;POL;NEG;COL	293000
 待つ	待ちました	V;PST;PFV;POL;FOREG	6020000
 待つ	待ちませんでした	V;PST;PFV;POL;FOREG;NEG	780000
 待つ	待っただろう	V;PST;PFV;PROSP	16200
@@ -15015,6 +15191,7 @@ lemma	inflected	label	hits
 磨く	磨かないでしょう	V;PRS;IPFV;PROSP;POL;NEG	8470
 磨く	磨いた	V;PST;PFV	15600000
 磨く	磨かなかった	V;PST;PFV;NEG	723000
+磨く	磨かなかったです	V;PST;PFV;POL;NEG;COL	2120
 磨く	磨きました	V;PST;PFV;POL;FOREG	1930000
 磨く	磨きませんでした	V;PST;PFV;POL;FOREG;NEG	95600
 磨く	磨いただろう	V;PST;PFV;PROSP	210
@@ -15140,6 +15317,7 @@ lemma	inflected	label	hits
 見せる	見せないでしょう	V;PRS;IPFV;PROSP;POL;NEG	515000
 見せる	見せた	V;PST;PFV	61600000
 見せる	見せなかった	V;PST;PFV;NEG	1510000
+見せる	見せなかったです	V;PST;PFV;POL;NEG;COL	66000
 見せる	見せました	V;PST;PFV;POL;FOREG	1600000
 見せる	見せませんでした	V;PST;PFV;POL;FOREG;NEG	1560000
 見せる	見せただろう	V;PST;PFV;PROSP	10300
@@ -15257,6 +15435,7 @@ lemma	inflected	label	hits
 見る	見ないでしょう	V;PRS;IPFV;PROSP;POL;NEG	11700000
 見る	見た	V;PST;PFV	441000000
 見る	見なかった	V;PST;PFV;NEG	4080000
+見る	見なかったです	V;PST;PFV;POL;NEG;COL	1340000
 見る	見ました	V;PST;PFV;POL;FOREG	39200000
 見る	見ませんでした	V;PST;PFV;POL;FOREG;NEG	1930000
 見る	見ただろう	V;PST;PFV;PROSP	207000
@@ -15374,6 +15553,7 @@ lemma	inflected	label	hits
 見る	ご覧にならないでしょう	V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG	58700
 見る	ご覧になった	V;FORM;ELEV;PST;PFV	24700000
 見る	ご覧にならなかった	V;FORM;ELEV;PST;PFV;NEG	633000
+見る	ご覧にならなかったです	V;FORM;ELEV;PST;PFV;POL;NEG;COL	0
 見る	ご覧になりました	V;FORM;ELEV;PST;PFV;POL;FOREG	13000000
 見る	ご覧になりませんでした	V;FORM;ELEV;PST;PFV;POL;FOREG;NEG	2790000
 見る	ご覧になっただろう	V;FORM;ELEV;PST;PFV;PROSP	11400
@@ -15476,6 +15656,7 @@ lemma	inflected	label	hits
 見る	拝見しないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	2
 見る	拝見した	V;FORM;HUMB;PST;PFV	3410000
 見る	拝見しなかった	V;FORM;HUMB;PST;PFV;NEG	387000
+見る	拝見しなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2
 見る	拝見しました	V;FORM;HUMB;PST;PFV;POL;FOREG	5540000
 見る	拝見しませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	249000
 見る	拝見しただろう	V;FORM;HUMB;PST;PFV;PROSP	2990
@@ -15536,6 +15717,7 @@ lemma	inflected	label	hits
 見る	拝見ささない	V;FORM;HUMB;PRS;IPFV;CAUS;NEG	0
 見る	拝見さします	V;FORM;HUMB;PRS;IPFV;CAUS;POL;FOREG	4
 見る	拝見さしません	V;FORM;HUMB;PRS;IPFV;CAUS;POL;FOREG;NEG	0
+見る	拝見さした	V;FORM;HUMB;PST;PFV;CAUS	73
 見る	拝見ささなかった	V;FORM;HUMB;PST;PFV;CAUS;NEG	0
 見る	拝見さしました	V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG	403
 見る	拝見さしませんでした	V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG;NEG	0
@@ -15558,6 +15740,7 @@ lemma	inflected	label	hits
 持つ	持たないでしょう	V;PRS;IPFV;PROSP;POL;NEG	3040000
 持つ	持った	V;PST;PFV	136000000
 持つ	持たなかった	V;PST;PFV;NEG	2600000
+持つ	持たなかったです	V;PST;PFV;POL;NEG;COL	3100000
 持つ	持ちました	V;PST;PFV;POL;FOREG	13100000
 持つ	持ちませんでした	V;PST;PFV;POL;FOREG;NEG	7050000
 持つ	持っただろう	V;PST;PFV;PROSP	71900
@@ -15645,6 +15828,7 @@ lemma	inflected	label	hits
 持つ	持たされます	V;PRS;IPFV;CAUS;PASS;POL;FOREG	137000
 持つ	持たされません	V;PRS;IPFV;CAUS;PASS;POL;FOREG;NEG	34100
 持つ	持たされた	V;PST;PFV;CAUS;PASS	393000
+持つ	持たされなかった	V;PST;PFV;CAUS;PASS;NEG	21500
 持つ	持たされました	V;PST;PFV;CAUS;PASS;POL;FOREG	521000
 持つ	持たされませんでした	V;PST;PFV;CAUS;PASS;POL;FOREG;NEG	13900
 持つ	お持ちになる	V;FORM;ELEV;PRS;IPFV	1070000
@@ -15682,6 +15866,7 @@ lemma	inflected	label	hits
 休む	休まないでしょう	V;PRS;IPFV;PROSP;POL;NEG	74600
 休む	休んだ	V;PST;PFV	11900000
 休む	休まなかった	V;PST;PFV;NEG	88800
+休む	休まなかったです	V;PST;PFV;POL;NEG;COL	12400
 休む	休みました	V;PST;PFV;POL;FOREG	5760000
 休む	休みませんでした	V;PST;PFV;POL;FOREG;NEG	109000
 休む	休んだだろう	V;PST;PFV;PROSP	16300
@@ -15807,6 +15992,7 @@ lemma	inflected	label	hits
 やる	やらないでしょう	V;PRS;IPFV;PROSP;POL;NEG	8550000
 やる	やった	V;PST;PFV	86500000
 やる	やらなかった	V;PST;PFV;NEG	2050000
+やる	やらなかったです	V;PST;PFV;POL;NEG;COL	303000
 やる	やりました	V;PST;PFV;POL;FOREG	24100000
 やる	やりませんでした	V;PST;PFV;POL;FOREG;NEG	453000
 やる	やっただろう	V;PST;PFV;PROSP	155000
@@ -15932,6 +16118,7 @@ lemma	inflected	label	hits
 呼ぶ	呼ばないでしょう	V;PRS;IPFV;PROSP;POL;NEG	261000
 呼ぶ	呼んだ	V;PST;PFV	36500000
 呼ぶ	呼ばなかった	V;PST;PFV;NEG	154000
+呼ぶ	呼ばなかったです	V;PST;PFV;POL;NEG;COL	25900
 呼ぶ	呼びました	V;PST;PFV;POL;FOREG	5850000
 呼ぶ	呼びませんでした	V;PST;PFV;POL;FOREG;NEG	114000
 呼ぶ	呼んだだろう	V;PST;PFV;PROSP	244000
@@ -16057,6 +16244,7 @@ lemma	inflected	label	hits
 読む	読まないでしょう	V;PRS;IPFV;PROSP;POL;NEG	781000
 読む	読んだ	V;PST;PFV	114000000
 読む	読まなかった	V;PST;PFV;NEG	1360000
+読む	読まなかったです	V;PST;PFV;POL;NEG;COL	381000
 読む	読みました	V;PST;PFV;POL;FOREG	29200000
 読む	読みませんでした	V;PST;PFV;POL;FOREG;NEG	1290000
 読む	読んだだろう	V;PST;PFV;PROSP	514000
@@ -16182,6 +16370,7 @@ lemma	inflected	label	hits
 分かる	分からないでしょう	V;PRS;IPFV;PROSP;POL;NEG	20900000
 分かる	分かった	V;PST;PFV	77200000
 分かる	分からなかった	V;PST;PFV;NEG	24800000
+分かる	分からなかったです	V;PST;PFV;POL;NEG;COL	15400000
 分かる	分かりました	V;PST;PFV;POL;FOREG	27000000
 分かる	分かりませんでした	V;PST;PFV;POL;FOREG;NEG	41700000
 分かる	分かっただろう	V;PST;PFV;PROSP	153000
@@ -16307,6 +16496,7 @@ lemma	inflected	label	hits
 分かる	承知しないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	42500
 分かる	承知した	V;FORM;HUMB;PST;PFV	642000
 分かる	承知しなかった	V;FORM;HUMB;PST;PFV;NEG	421000
+分かる	承知しなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	4
 分かる	承知しました	V;FORM;HUMB;PST;PFV;POL;FOREG	4250000
 分かる	承知しませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	126000
 分かる	承知しただろう	V;FORM;HUMB;PST;PFV;PROSP	2280
@@ -16390,6 +16580,7 @@ lemma	inflected	label	hits
 分かる	かしこまらないでしょう	V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG	2
 分かる	かしこまった	V;FORM;HUMB;PST;PFV	1240000
 分かる	かしこまらなかった	V;FORM;HUMB;PST;PFV;NEG	173
+分かる	かしこまらなかったです	V;FORM;HUMB;PST;PFV;POL;NEG;COL	2
 分かる	かしこまりました	V;FORM;HUMB;PST;PFV;POL;FOREG	5610000
 分かる	かしこまりませんでした	V;FORM;HUMB;PST;PFV;POL;FOREG;NEG	206
 分かる	かしこまっただろう	V;FORM;HUMB;PST;PFV;PROSP	1
@@ -16449,6 +16640,7 @@ lemma	inflected	label	hits
 分かる	かしこまらす	V;FORM;HUMB;PRS;IPFV;CAUS	142
 分かる	かしこまらさない	V;FORM;HUMB;PRS;IPFV;CAUS;NEG	1
 分かる	かしこまらします	V;FORM;HUMB;PRS;IPFV;CAUS;POL;FOREG	1
+分かる	かしこまらしません	V;FORM;HUMB;PRS;IPFV;CAUS;POL;FOREG;NEG	1
 分かる	かしこまらした	V;FORM;HUMB;PST;PFV;CAUS	2
 分かる	かしこまらさなかった	V;FORM;HUMB;PST;PFV;CAUS;NEG	0
 分かる	かしこまらしました	V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG	3
@@ -16480,6 +16672,7 @@ lemma	inflected	label	hits
 忘れる	忘れないでしょう	V;PRS;IPFV;PROSP;POL;NEG	8060000
 忘れる	忘れた	V;PST;PFV	83100000
 忘れる	忘れなかった	V;PST;PFV;NEG	863000
+忘れる	忘れなかったです	V;PST;PFV;POL;NEG;COL	33200
 忘れる	忘れました	V;PST;PFV;POL;FOREG	22300000
 忘れる	忘れませんでした	V;PST;PFV;POL;FOREG;NEG	1170000
 忘れる	忘れただろう	V;PST;PFV;PROSP	15300
@@ -16597,6 +16790,7 @@ lemma	inflected	label	hits
 渡す	渡さないでしょう	V;PRS;IPFV;PROSP;POL;NEG	183000
 渡す	渡した	V;PST;PFV	28700000
 渡す	渡さなかった	V;PST;PFV;NEG	410000
+渡す	渡さなかったです	V;PST;PFV;POL;NEG;COL	19600
 渡す	渡しました	V;PST;PFV;POL;FOREG	6390000
 渡す	渡しませんでした	V;PST;PFV;POL;FOREG;NEG	40000
 渡す	渡しただろう	V;PST;PFV;PROSP	5120
@@ -16722,6 +16916,7 @@ lemma	inflected	label	hits
 渡る	渡らないでしょう	V;PRS;IPFV;PROSP;POL;NEG	34100
 渡る	渡った	V;PST;PFV	98100000
 渡る	渡らなかった	V;PST;PFV;NEG	149000
+渡る	渡らなかったです	V;PST;PFV;POL;NEG;COL	3220
 渡る	渡りました	V;PST;PFV;POL;FOREG	1350000
 渡る	渡りませんでした	V;PST;PFV;POL;FOREG;NEG	90300
 渡る	渡っただろう	V;PST;PFV;PROSP	2200

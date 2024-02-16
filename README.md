@@ -26,19 +26,18 @@ We will soon publish a description paper on arXiv.
 
 We developed J-UniMorph Visualizer, which
 takes an inflected form as the input and provides the UniMorph labels of its form. This makes manual analysis of J-UniMorph easier.
+We hope it will be useful for Japanese learners.
 You can use it from the following link.
 
 [https://matsukosuke.github.io/inflection_tool/inflection.html?lang=en](https://matsukosuke.github.io/inflection_tool/inflection.html?lang=en)
 
-We hope it will be useful for Japanese learners.
-
 
 意味分析・語形変換ツールを作成しました．これは，日本語のさまざまな語形の意味を調べられるツールです．
 以下のリンクから利用できます．
+日本語学習者にとって有益なものであることを期待しております．
 
 [https://matsukosuke.github.io/inflection_tool/inflection.html](https://matsukosuke.github.io/inflection_tool/inflection.html)
 
-日本語学習者にとって有益なものであることを期待しております．
 
 
 ## Copyright and License

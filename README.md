@@ -47,4 +47,10 @@ This dataset is published under the [CC BY 4.0](https://creativecommons.org/lice
 このデータセットは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) の下で公開されています．
 
 
+## Contact
+
+E-mail: matsuzaki.kosuke.r7 (at) dc.tohoku.ac.jp<br>
+※Replace the (at) above with "@". / 上記の (at) を「@」に置き換えてください．
+
+
 (c) 2024 Kosuke Matsuzaki All Rights Reserved.

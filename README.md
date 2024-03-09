@@ -9,17 +9,24 @@ The file `jap` is the data we created for UniMorph, and `jap_with_hits.txt` is t
 
 ## Citation
 
-We will soon publish a description paper on arXiv.
+<!-- We will soon publish a description paper on arXiv. -->
+We have published a <a href="https://arxiv.org/abs/2402.14411">description paper</a> on arXiv.
 
-近々，arXivに説明論文を投稿する予定です．
+<!-- 近々，arXivに説明論文を投稿する予定です． -->
+arXivに<a href="https://arxiv.org/abs/2402.14411">説明論文</a>を投稿しています．
 
-<!--
+
 ```latex
-@article{matsuzaki2024junimorph,
-    ...
+@misc{matsuzaki2024junimorph,
+      title={J-UniMorph: Japanese Morphological Annotation through the Universal Feature Schema}, 
+      author={Kosuke Matsuzaki and Masaya Taniguchi and Kentaro Inui and Keisuke Sakaguchi},
+      year={2024},
+      eprint={2402.14411},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
--->
+
 
 
 ## J-UniMorph Visualizer

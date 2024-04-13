@@ -1,0 +1,59 @@
+{
+    "innerText":{
+        "title": "意味分析・語形変換ツール",
+        "changeLang": "English page",
+        "explanationMessage": "リロードするとリセットされます．\n「検索」「別の意味を表示」ボタンの代わりにEnterキーを使用できます．",
+        "explanationButton": "使い方（詳細説明）を表示",
+        "explanationStep1": "このツールは，日本語の語形を解析し，その意味を調べるためのものです．",
+        "explanationStep2": "検索ボックスに語形を入力し，「検索」ボタンを押すと，その後系の意味が表示されます．",
+        "explanationStep3": "ピンク色のチェックボックスが，語形の意味に関する情報を示しています．",
+        "explanationStep4": "同時に，関連語が表示されます．数値が大きいほど，よく使われる語形であることを表します．",
+        "explanationStep5": "入力した語形に複数の意味がある場合は，表示する意味を切り替えられます．",
+        "explanationStep6": "検索後にチェックボックスをクリックすると，ラベルの異なる別の語形を表示できます．",
+        "inputTextLabel": "例: 走りません，いらっしゃった，食べられる",
+        "resultDisplayLabel": "検索結果",
+        "resultDisplay": "ここに検索結果が表示されます．",
+        "relatedWordsLabel": "関連語",
+        "relatedWords": "関連語がここに表示されます．",
+        "searchButton": "　検索　",
+        "posLabel": "品詞",
+        "tenseLabel": "時制",
+        "honorificLabel": "敬語",
+        "moodLabel": "ムード",
+        "othersLabel": "その他",
+        "changedRelatedWords": "検索後にチェックボックスを変更すると，その意味の語形がここに表示されます．",
+        "labelV": "V（動詞）",
+        "labelPRS": "PRS+IPFV（現在・未完了）",
+        "labelPST": "PST+PFV（過去・完了）",
+        "labelPOL": "POL（丁寧）",
+        "labelFOREG": "FOREG（ます体）",
+        "labelFORM": "FORM（フォーマル）",
+        "labelELEV": "ELEV（尊敬）",
+        "labelHUMB": "HUMB（謙譲）",
+        "labelCOL": "COL（口語）",
+        "labelOPT1": "OPT+1（主観の願望）",
+        "labelOPT3": "OPT+3（客観の願望）",
+        "labelIMP": "IMP（命令）",
+        "labelOBLIG": "OBLIG（義務）",
+        "labelINTEN": "INTEN（意志）",
+        "labelPOT": "POT（可能）",
+        "labelPERM": "PERM（許可）",
+        "labelNEG": "NEG（否定）",
+        "labelPASS": "PASS（受動）",
+        "labelCAUS": "CAUS（使役）",
+        "labelPROSP": "PROSP（推量）"
+    },
+    "placeholder": {
+        "inputText": "語形を入力"
+    },
+    "href": {
+        "changeLang": "?lang=en"
+    },
+    "translation": {
+        "confidence": "ヒット指数",
+        "noMatchError": "該当する語がありません．他の語を試してみてください．",
+        "changedWordsLabel": "<「{0} {1}」である語>\n",
+        "noMatchingChangeError": "※該当する語がありません．他のチェックを試してみてください．",
+        "error": "エラー"
+    }
+}

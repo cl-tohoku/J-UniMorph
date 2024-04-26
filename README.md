@@ -1,10 +1,10 @@
 # J-UniMorph
 
 Dataset of UniMorph in Japanese.
-The file `jap` is the data we created for UniMorph, and `jap_with_hits.txt` is the data before filtering with the number of hits for exact match search.
+The file `jpn` is the data we created for UniMorph, and `jpn_with_hits.txt` is the data before filtering with the number of hits for exact match search.
 
 これは，UniMorphの日本語版データセットです．
-ファイル`jap`はUniMorph用に作成したデータであり，`jap_with_hits.txt`は完全一致検索のヒット数でフィルタリングする前のデータです．
+ファイル`jpn`はUniMorph用に作成したデータであり，`jpn_with_hits.txt`は完全一致検索のヒット数でフィルタリングする前のデータです．
 
 
 ## Citation

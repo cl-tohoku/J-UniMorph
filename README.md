@@ -17,7 +17,7 @@ arXivに<a href="https://arxiv.org/abs/2402.14411">説明論文</a>を投稿し�
 
 
 ```latex
-@misc{matsuzaki2024junimorph,
+@article{matsuzaki2024junimorph,
       title={J-UniMorph: Japanese Morphological Annotation through the Universal Feature Schema}, 
       author={Kosuke Matsuzaki and Masaya Taniguchi and Kentaro Inui and Keisuke Sakaguchi},
       year={2024},

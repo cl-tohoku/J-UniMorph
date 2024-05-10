@@ -246,7 +246,7 @@ window.onload = async function () {
     // document.getElementById("result").innerText = "";
     // ローカルにはアクセスできない（セキュリティ上の理由）
     //const filePath = 'file:///Users/~~~/Desktop/~~~/dataset/Japanese.txt';
-    const filePath = 'https://raw.githubusercontent.com/cl-tohoku/J-UniMorph/main/jap_with_hits.txt'
+    const filePath = 'https://raw.githubusercontent.com/cl-tohoku/J-UniMorph/main/jpn_with_hits.txt'
 
     // ファイルを読み込み
     const response = await fetch(filePath);

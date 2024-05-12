@@ -46,7 +46,12 @@ function checkOnOff(inLabel, outLabels, inInt, outInt) {
 function displayResult(displayNum, dataArray, inputText, labels, mode, lang_int) {
     // ボタンを押したあとの処理をまとめて関数化
     let matchingRows;
+    let matchingRowsH;
+    let matchingRowsR;
     let lemma;
+    let lemmaR;
+    let inflected;
+    let inflectedR;
     let hits;
     let confidence;
     let retrieval_num = 0; // 該当した件数
@@ -58,7 +63,20 @@ function displayResult(displayNum, dataArray, inputText, labels, mode, lang_int)
     document.getElementById("changedRelatedWords").innerHTML = dictionary["innerText"]["changedRelatedWords"];
     try {
         // 入力値と一致する行のフィルタリング（完全一致）
-        matchingRows = dataArray.filter(row => row[1] === inputText);
+        // inputTextがすべてひらがなの場合はスキップ
+        //if (inputText.match(/[\p{Script=Hiragana}]/u)) {
+        if (inputText.match(/^[\u3040-\u309F]+$/)) {
+            matchingRows = [];
+        } else {
+            matchingRows = dataArray.filter(row => row[1] === inputText); // Kanji and Hiragana
+        }
+        // Append Hiragana and Romanize results to matchingRows
+        matchingRowsH = dataArray.filter(row => row[5] === inputText); // Hiragana
+        matchingRowsR = dataArray.filter(row => row[7] === inputText); // Romanize
+        matchingRows = matchingRows.concat(matchingRowsH);
+        matchingRows = matchingRows.concat(matchingRowsR);
+        
+
         console.log(inputText);
         if (mode == "search") {
             displayNum = 0;
@@ -70,7 +88,10 @@ function displayResult(displayNum, dataArray, inputText, labels, mode, lang_int)
 
         // 表示のために，1列目と3列目だけ残す．加えて，1列目の左側に行番号を追加する
         // 例：['1: 行く V;PRS;IPFV;POT', '2: 来る V;PRS;IPFV;POT']
-        lemma = matchingRows[displayNum][0]; // 原形
+        lemma = matchingRows[displayNum][0] // 原形
+        lemmaR = matchingRows[displayNum][6] // 原形 Romanize
+        inflected = matchingRows[displayNum][1] // 語形
+        inflectedR = matchingRows[displayNum][7] // 語形 Romanize
     } catch (error) {
         console.log(error);
         let resultDisplay = "";
@@ -93,7 +114,7 @@ function displayResult(displayNum, dataArray, inputText, labels, mode, lang_int)
     hitsAndConfidence = [``, ``][lang_int];
     //hitsAndConfidence += `ヒット件数: ${num2comma(hits)}，ヒット指数: ${confidence}`;
     hitsAndConfidence += `${t("confidence")}: ${confidence}`;
-    matchingRowsForDisplay = matchingRows.map((row, index) => `${index + 1}: ${row[0]} ${row[2]}`);
+    matchingRowsForDisplay = matchingRows.map((row, index) => `${index + 1}: ${row[0]}/ ${row[6]}<br>${row[1]}/ ${row[7]}<br>${row[2]}`);
     retrieval_num = matchingRows.length;
     // let add_message = "";
     // if(retrieval_num == 1 && mode == "change"){
@@ -107,7 +128,7 @@ function displayResult(displayNum, dataArray, inputText, labels, mode, lang_int)
     // document.getElementById("resultDisplay").innerText = hitsAndConfidence + "\n" + matchingRowsForDisplay.join('\n');
     // make result in radio button
     let resultDisplay = "";
-    resultDisplay += `<p>Lemma: ${lemma}</p>`;
+    //resultDisplay += `<p>Lemma: ${lemma}/${lemmaR}, Inflected form: ${inflected}/${inflectedR}</p>`;
     for (let i = 0; i < matchingRowsForDisplay.length; i++) {
         resultDisplay += `<div class="form-check col-12">`;
         if (i == displayNum) {
@@ -146,7 +167,7 @@ function displayResult(displayNum, dataArray, inputText, labels, mode, lang_int)
         row[2].split(';').sort().join(";") === hit_labels.sort().join(";"));
     // retrievalResultを，ヒット指数の降順にソートしてから表示する
     retrievalResult.sort((row1, row2) => row2[3] - row1[3]);
-    const relatedWordsForDisplay = retrievalResult.map(row => `${row[1]} (${calcConfidence(row[3])})`);
+    const relatedWordsForDisplay = retrievalResult.map(row => `${row[1]}/ ${row[7]} (${calcConfidence(row[3])})`);
     //const displayRelated = `＜「${lemma} ${hit_labels}」である語＞\n`;
     const displayRelated = "";
     // const displayRelated = [`＜関連語＞\n`, `<Related words>\n`][lang_int];
@@ -246,7 +267,9 @@ window.onload = async function () {
     // document.getElementById("result").innerText = "";
     // ローカルにはアクセスできない（セキュリティ上の理由）
     //const filePath = 'file:///Users/~~~/Desktop/~~~/dataset/Japanese.txt';
-    const filePath = 'https://raw.githubusercontent.com/cl-tohoku/J-UniMorph/main/jpn_with_hits.txt'
+    //const filePath = 'https://raw.githubusercontent.com/cl-tohoku/J-UniMorph/main/jpn_with_hits.txt'
+    const filePath = 'https://raw.githubusercontent.com/cl-tohoku/J-UniMorph/main/jpn_for_inflection_tool.txt'
+    //const filePath = 'file:///Users/~~~/Desktop/MyResearch/inflection_tool/jpn_for_inflection_tool.txt' // for debug
 
     // ファイルを読み込み
     const response = await fetch(filePath);
@@ -260,6 +283,8 @@ window.onload = async function () {
     // Inflected formのみをリストに格納
     const dataArrayMain = dataArray.slice(1);
     const inflectedForms = dataArrayMain.map(data => data[1])
+    const inflectedFormsHiragana = dataArrayMain.map(data => data[5])
+    const inflectedFormsRomanize = dataArrayMain.map(data => data[7])
     const dataset = document.getElementById("dataset");
     for (const data of inflectedForms) {
         const option = document.createElement("option");
@@ -371,7 +396,7 @@ window.onload = async function () {
                     row[2].split(';').sort().join(";") === checkedLabels.sort().join(";"));
                 // matchingRowsを，ヒット指数の降順にソートしてから表示する
                 matchingRows.sort((row1, row2) => row2[3] - row1[3]);
-                const relatedWordsForDisplay = matchingRows.map(row => `${row[1]} (${calcConfidence(row[3])})`);
+                const relatedWordsForDisplay = matchingRows.map(row => `${row[1]}/ ${row[7]} (${calcConfidence(row[3])})`);
                 console.log(format(t("changedWordsLabel"), lemma, checkedLabelsStr));
                 let displayRelated = format(t("changedWordsLabel"), lemma, checkedLabelsStr);
                 if (relatedWordsForDisplay.length == 0) {

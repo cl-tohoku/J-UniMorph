@@ -14,7 +14,7 @@
     }
 
     input[type="checkbox"][pattern="in"]+label {
-        background-color: #ffa0f0;
+        background-color: #77ee33;
         /* チェックされたときの背景色を設定 */
         color: black;
         padding: 1px 5px;
@@ -132,7 +132,7 @@
                         <button class="btn btn-outline-secondary" type="button" id="searchButton"></button>
                     </div>
                     <label for="inputText" class="form-label" id="inputTextLabel"></label>
-                    <p id="showTextWarning" class="textWarning"></p>
+                    <!-- <p id="showTextWarning" class="textWarning"></p> --> <!-- 英語未対応の警告 -->
                 </div>
             </div>
         </div>
@@ -146,7 +146,7 @@
             </button>
             <div class="col-12">
                 <div class="row row-cols-1 row-cols-md-2 g-2">
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card h-100">
                             <div class="card-body">
                                 <h5 class="card-title" id="resultDisplayLabel"></h5>
@@ -155,7 +155,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card h-100">
                             <div class="card-body">
                                 <h5 class="card-title" id="relatedWordsLabel"></h5>
